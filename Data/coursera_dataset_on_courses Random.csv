@@ -1,0 +1,568 @@
+C_Nm,S_Enr,Tutor,Rating,Review,5S,4S,3S,2S,1S,Modules,lvl,Time,Likes
+Supervised Machine Learning: Regression and Classification,886530,Andrew Ng,4.9,26925,91.7,7.21,0.62,0.16,0.29,3.0,Beginner,,98.0
+Indigenous Canada,619578,Dr. Paul L. Gareau,4.8,23005,84.43,13.65,1.4,0.23,0.26,12.0,,20.0,97.0
+The Science of Well-Being,4845502,Laurie Santos,4.9,38930,91.99,6.81,0.63,0.17,0.39,10.0,,19.0,98.0
+Technical Support Fundamentals,1968061,Google Career Certificates,4.8,157353,85.59,12.34,1.46,0.25,0.33,6.0,Beginner,,97.0
+Become a CBRS Certified Professional Installer by Google,3631,Google,4.5,209,77.51,11.0,4.78,1.43,5.26,7.0,,3.0,
+Financial Markets,2163856,Robert Shiller,4.8,29927,85.63,11.68,1.49,0.33,0.85,7.0,Beginner,,97.0
+Introduction to Psychology,1457287,Paul Bloom,4.9,30763,87.54,11.12,0.86,0.15,0.3,7.0,Beginner,,99.0
+Programming for Everybody (Getting Started with Python),3272723,Charles Russell Severance,4.8,230790,85.62,12.68,1.25,0.18,0.25,7.0,Beginner,,98.0
+The Bits and Bytes of Computer Networking,874743,Google Career Certificates,4.7,50748,79.1,16.11,3.12,0.87,0.77,6.0,Beginner,,94.0
+AI For Everyone,1708314,Andrew Ng,4.8,46252,82.21,15.58,1.72,0.24,0.23,4.0,Beginner,,98.0
+Crash Course on Python,1205504,Google Career Certificates,4.8,38920,82.39,14.42,1.77,0.45,0.95,5.0,Beginner,,96.0
+Psychological First Aid,572021,"George Everly, Jr., PhD",4.8,19640,84.59,13.24,1.59,0.29,0.26,5.0,,6.0,99.0
+Neural Networks and Deep Learning,1406199,Andrew Ng,4.9,122626,89.72,9.17,0.82,0.13,0.14,4.0,Intermediate,,96.0
+What is Data Science?,1114776,Rav Ahuja,4.7,74584,76.39,18.73,3.2,0.78,0.87,4.0,Beginner,,97.0
+Successful Negotiation: Essential Strategies and Skills,1614984,George Siedel,4.8,19820,82.13,15.03,1.95,0.4,0.46,7.0,Beginner,,99.0
+Fundamentals of Project Planning and Management,364726,Yael Grushka-Cockayne,4.7,10150,78.48,18.98,1.86,0.3,0.36,4.0,Beginner,,97.0
+"Brand Management: Aligning Business, Brand and Behaviour",471580,Nader Tavassoli,4.9,7543,88.4,9.69,1.15,0.25,0.49,5.0,Beginner,,97.0
+Writing in the Sciences,551731,Dr. Kristin Sainani,4.9,9202,89.54,9.43,0.58,0.2,0.22,8.0,Beginner,,97.0
+Stanford Introduction to Food and Health,972537,"Maya Adam, MD",4.7,33166,79.53,15.68,3.43,0.76,0.57,6.0,Beginner,,98.0
+"HTML, CSS, and Javascript for Web Developers",1183242,Yaakov Chaikin,4.7,16817,80.8,13.56,2.33,1.12,2.16,1.0,,8.0,96.0
+Excel Skills for Business: Essentials,975648,Nicky Bull,4.9,49450,88.69,10.2,0.71,0.14,0.23,7.0,Beginner,,98.0
+Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,652815,Barry Nalebuff,4.8,5069,89.73,7.88,0.86,0.53,0.98,9.0,,33.0,97.0
+"Everyday Excel, Part 1",276315,Charlie Nuttelman,4.7,3513,83.2,11.84,1.73,0.62,2.58,5.0,Beginner,,95.0
+Learning How to Learn: Powerful mental tools to help you master tough subjects,3983241,Dr. Barbara Oakley,4.8,91653,86.07,12.13,1.27,0.22,0.28,4.0,Beginner,,98.0
+Google Cloud Fundamentals: Core Infrastructure,764945,Google Cloud Training,4.7,48464,76.72,20.02,2.43,0.38,0.43,9.0,Beginner,,95.0
+Viral Marketing and How to Craft Contagious Content,315210,Jonah Berger,4.8,5247,80.18,16.36,2.74,0.43,0.26,4.0,,4.0,98.0
+Python Data Structures,1098211,Charles Russell Severance,4.9,96469,87.64,11.18,0.91,0.13,0.12,7.0,Beginner,,98.0
+Private Equity and Venture Capital,286157,Stefano Caselli,4.8,8624,81.17,16.52,1.83,0.23,0.23,5.0,,,
+First Step Korean,1653789,Seung Hae Kang,4.9,52053,89.31,9.31,1.06,0.14,0.14,6.0,Beginner,,99.0
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",391356,Laurence Moroney,4.8,19593,81.18,15.17,2.41,0.63,0.58,4.0,Intermediate,,96.0
+Operating Systems and You: Becoming a Power User,568796,Google Career Certificates,4.7,28560,77.78,16.65,3.69,1.0,0.85,6.0,Beginner,,97.0
+Tools for Data Science,521072,Aije Egwaikhide,4.5,29565,67.78,21.75,6.42,2.08,1.94,7.0,Beginner,,88.0
+"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",593260,Andrew Ng,4.9,63319,88.22,10.57,1.01,0.11,0.06,3.0,Intermediate,,96.0
+Diversity and inclusion in the workplace,56014,Junko TAKAGI,4.7,957,74.6,20.68,2.71,0.41,1.56,4.0,Beginner,,90.0
+Design and Interpretation of Clinical Trials,150156,"Janet Holbrook, PhD, MPH",4.7,4301,76.27,20.63,2.55,0.34,0.18,6.0,,10.0,96.0
+Visual Elements of User Interface Design,268044,Michael Worthington,4.7,6237,77.13,18.3,2.77,0.67,1.12,5.0,Beginner,,97.0
+Management of Fashion and Luxury Companies,294782,Erica Corbellini,4.7,6002,77.0,18.8,3.01,0.49,0.68,6.0,,12.0,98.0
+Primeros Auxilios PsicolÃ³gicos (PAP),560479,Alicia Ãlvarez,4.8,10657,87.47,10.82,1.16,0.28,0.25,6.0,,15.0,99.0
+Social Psychology,685111,Scott Plous,4.7,4974,85.39,8.67,1.66,0.98,3.27,7.0,Beginner,,96.0
+Initiating and Planning Projects,474973,"Margaret  Meloni,  MBA, PMP",4.7,23339,76.69,19.94,2.56,0.46,0.33,6.0,,6.0,98.0
+Computational Thinking for Problem Solving,125191,Susan Davidson,4.7,1409,80.48,13.2,3.4,1.2,1.7,4.0,Beginner,,87.0
+Agile with Atlassian Jira,348470,Kashmira Shukla,4.7,9276,74.08,21.95,2.98,0.53,0.44,4.0,Beginner,,98.0
+Fundamentals of Graphic Design,825298,Michael Worthington,4.8,17912,82.05,14.44,2.2,0.48,0.79,6.0,Beginner,,98.0
+Introduction to User Experience Design,479068,Dr. Rosa I. Arriaga,4.5,8596,65.51,26.54,5.65,1.33,0.95,6.0,Beginner,,98.0
+Introduction to Marketing,419678,Barbara E. Kahn,4.8,13108,80.51,16.76,2.04,0.32,0.35,5.0,,10.0,97.0
+"Python for Data Science, AI & Development",1118229,Joseph Santarcangelo,4.6,40141,72.01,20.76,4.4,1.45,1.36,5.0,Beginner,,95.0
+Marketing Analytics,345084,Rajkumar Venkatesan,4.7,6410,75.21,19.24,2.88,0.88,1.76,5.0,Beginner,,94.0
+Natural Language Processing with Classification and Vector Spaces,199778,Younes Bensouda Mourri,4.6,4525,73.89,19.04,4.54,1.28,1.23,4.0,Intermediate,,95.0
+Fundamentals of Quantitative Modeling,245693,Richard Waterman,4.6,9083,72.14,21.97,4.51,0.77,0.6,4.0,,7.0,96.0
+How to Manage a Remote Team,72624,Darren Murph,4.8,1005,82.91,14.1,1.78,0.89,0.29,5.0,Intermediate,,97.0
+Mathematics for Machine Learning: Linear Algebra,412326,David Dye,4.7,12286,74.51,19.67,3.45,1.19,1.15,5.0,Beginner,,91.0
+Introduction to Data Science in Python,818342,Christopher Brooks,4.5,27134,66.34,24.29,5.35,1.91,2.09,4.0,Intermediate,,92.0
+Customer Analytics,295434,Eric Bradlow,4.6,11895,68.22,24.26,5.51,1.25,0.74,5.0,,11.0,92.0
+Introduction to Psychology,504967,Steve Joordens,4.9,5244,90.16,8.29,0.81,0.2,0.51,12.0,,22.0,98.0
+English for Career Development,2693284,Brian McManus,4.8,16255,86.13,11.36,1.35,0.38,0.76,5.0,,40.0,99.0
+Global Diplomacy â Diplomacy in the Modern World,199276,"Dr Dan Plesch, SOAS University of London",4.7,5156,79.71,14.9,3.35,0.93,1.1,6.0,,13.0,98.0
+Game Theory,552644,Matthew O. Jackson,4.6,4788,71.83,21.98,3.82,1.14,1.21,8.0,Beginner,,92.0
+SQL for Data Science,650164,Sadie St. Lawrence,4.6,16698,73.61,19.94,3.5,1.42,1.5,4.0,Beginner,,91.0
+Write Professional Emails in English,991548,Gerry Landers,4.8,17291,81.94,14.66,1.99,0.5,0.88,5.0,,13.0,97.0
+Medical Neuroscience,377430,"Leonard E. White, Ph.D.",4.9,2878,92.85,5.3,0.55,0.27,1.0,18.0,Advanced,,97.0
+System Administration and IT Infrastructure Services,498055,Google Career Certificates,4.8,25699,80.75,15.25,2.89,0.6,0.49,6.0,Beginner,,97.0
+International Women's Health and Human Rights,123772,Anne Firth Murray,4.9,1646,89.74,7.88,1.39,0.42,0.54,14.0,Beginner,,98.0
+Child Nutrition and Cooking,511736,"Maya Adam, MD",4.8,10301,82.11,14.33,2.44,0.5,0.6,5.0,Beginner,,98.0
+Understanding the Brain: The Neurobiology of Everyday Life,375392,Peggy Mason,4.9,3064,91.03,7.33,0.74,0.52,0.35,10.0,Beginner,,98.0
+Introduction to Social Media Marketing,543203,Anke Audenaert,4.8,14645,88.08,9.57,1.2,0.31,0.81,5.0,Beginner,,98.0
+Forensic Accounting and Fraud Examination,159933,"Dr. Richard Riley, Ph.D",4.7,6036,78.27,18.32,2.59,0.43,0.36,5.0,,6.0,97.0
+Clinical Terminology for International and U.S. Students,127897,"Valerie Swigart, Ph.D. R.N.",4.8,3146,84.67,13.42,1.39,0.25,0.25,6.0,Beginner,,98.0
+Science of Exercise,371998,"Robert Mazzeo, Ph.D.",4.8,4643,85.66,11.81,1.37,0.43,0.71,4.0,Beginner,,96.0
+Digital Product Management: Modern Fundamentals,201901,Alex Cowan,4.7,5263,76.67,19.11,2.9,0.7,0.6,4.0,Beginner,,95.0
+Data Science Math Skills,509754,Daniel Egger,4.5,12532,65.41,26.55,5.45,1.61,0.96,5.0,Beginner,,96.0
+Structuring Machine Learning Projects,488029,Andrew Ng,4.8,49999,82.94,13.62,2.8,0.47,0.14,2.0,Beginner,,97.0
+An Introduction to American Law,204612,Anita Allen,4.8,5090,85.91,12.31,1.27,0.31,0.17,8.0,Beginner,,98.0
+The Strategy of Content Marketing,645861,Sonia Simone,4.5,5083,70.3,20.25,4.93,1.92,2.57,5.0,Intermediate,,97.0
+Introduction to Cybersecurity Tools & Cyberattacks,463022,IBM Skills Network Team,4.6,16036,70.21,21.16,5.13,1.68,1.8,5.0,Beginner,,92.0
+The Data Scientistâs Toolbox,755040,"Jeff Leek, PhD",4.6,33988,69.46,23.18,5.26,1.1,0.97,4.0,,17.0,96.0
+Animal Behaviour and Welfare,160289,Professor Nat Waran,4.8,5247,83.35,14.18,1.92,0.26,0.26,7.0,,10.0,99.0
+Convolutional Neural Networks in TensorFlow,156310,Laurence Moroney,4.7,8177,79.28,15.46,3.48,0.99,0.78,4.0,Intermediate,,96.0
+Positive Psychology: Martin E. P. Seligmanâs Visionary Science,124270,"Martin E.P. Seligman, Ph.D.",4.9,6114,87.84,10.45,1.07,0.27,0.34,4.0,Beginner,,98.0
+Introduction to the Biology of Cancer,211325,"Kenneth J. Pienta, M.D.",4.8,7573,84.86,13.07,1.62,0.21,0.22,6.0,Beginner,,97.0
+Convolutional Neural Networks,534410,Andrew Ng,4.9,42413,87.83,10.28,1.4,0.28,0.18,4.0,Intermediate,,95.0
+Using Python to Access Web Data,694066,Charles Russell Severance,4.8,44302,80.83,15.63,2.65,0.48,0.39,6.0,Beginner,,97.0
+Introductory Human Physiology,565773,Jennifer Carbrey,4.8,5103,82.51,13.87,2.37,0.43,0.8,11.0,Beginner,,97.0
+Introduction to Systematic Review and Meta-Analysis,189681,"Tianjing Li, MD, MHS, PHD",4.8,3439,79.49,18.11,1.89,0.29,0.2,6.0,,13.0,97.0
+Organizational Analysis,197388,Daniel A. McFarland,4.6,1600,73.42,19.46,4.05,1.12,1.93,11.0,Beginner,,95.0
+Communication Strategies for a Virtual Age,211409,Ivan Wanis Ruiz,4.8,4334,84.59,12.72,1.54,0.48,0.64,4.0,Beginner,,97.0
+Moral Foundations of Politics,237933,Ian Shapiro,4.9,5914,88.56,9.91,0.98,0.15,0.38,8.0,,44.0,97.0
+Ãtudier en France: French Intermediate course B1-B2,670339,Julie AndrÃ©,4.8,5008,85.55,11.57,1.09,0.39,1.37,7.0,Intermediate,,96.0
+Managing the Company of the Future,129452,Julian Birkinshaw,4.8,3594,85.37,12.65,1.3,0.25,0.41,6.0,,12.0,98.0
+Finance for Non-Finance Professionals,185356,James Weston,4.8,2727,81.77,15.62,1.46,0.36,0.77,5.0,Beginner,,96.0
+Site Reliability Engineering: Measuring and Managing Reliability,56284,Google Cloud Training,4.5,930,69.78,20.96,5.16,2.15,1.93,7.0,Intermediate,,89.0
+"Managing ADHD, Autism, Learning Disabilities, and Concussion in School",40717,Eve Kutchman,4.8,1624,84.51,12.29,2.45,0.49,0.24,4.0,,9.0,98.0
+Data Science Methodology,328209,Alex Aklson,4.6,20654,71.6,21.16,4.81,1.52,0.88,4.0,Beginner,,94.0
+Introduction to Financial Accounting,351654,Brian J Bushee,4.7,8290,81.01,14.39,2.96,0.84,0.78,4.0,,13.0,96.0
+Marketing in a Digital World,575589,Aric Rindfleisch,4.7,16983,79.65,16.76,2.13,0.5,0.94,4.0,Beginner,,98.0
+Wind Energy,167942,Jake Badger,4.7,7203,75.39,20.76,2.88,0.38,0.56,16.0,,34.0,97.0
+Principles of Sustainable Finance,65836,Steve Kennedy,4.7,1806,75.0,20.75,3.14,0.82,0.27,9.0,Intermediate,,97.0
+Financial Engineering and Risk Management Specialization,30396,Martin Haugh,4.6,349,,,,,,,Intermediate,,2.0
+Introduction to Philosophy,703801,Dr.  Dave Ward,4.7,9504,75.79,19.39,3.43,0.65,0.72,14.0,,18.0,97.0
+Business Metrics for Data-Driven Companies,292783,Daniel Egger,4.6,8419,68.36,25.16,4.78,0.8,0.87,5.0,,7.0,96.0
+Python Basics,475936,Paul Resnick,4.8,17937,83.95,13.78,1.38,0.35,0.52,4.0,Beginner,,97.0
+Introduction to Sustainability,161534,Dr. Jonathan Tomkin,4.8,2617,80.91,16.14,1.56,0.45,0.91,8.0,,24.0,96.0
+Positive Psychiatry and Mental Health,299687,Sonia Kumar,4.8,3745,81.82,14.51,2.1,0.61,0.93,5.0,,19.0,98.0
+Cryptography I,522791,Dan Boneh,4.8,4398,84.85,12.23,1.7,0.5,0.7,7.0,,23.0,96.0
+Learning to Teach Online,191921,Associate Professor Simon McIntyre,4.7,3156,80.77,15.55,2.09,0.72,0.85,5.0,Beginner,,99.0
+IT Security: Defense against the digital dark arts,448836,Google Career Certificates,4.8,24255,84.68,12.59,1.9,0.42,0.38,7.0,Beginner,,97.0
+Entreprise et changement climatique,4831,Thierry Sibieude,4.6,106,66.98,31.13,0.0,0.0,1.88,4.0,Beginner,10.0,
+An Introduction to Consumer Neuroscience & Neuromarketing,199115,Thomas ZoÃ«ga RamsÃ¸y,4.7,3380,74.62,20.2,3.51,1.03,0.62,6.0,Beginner,,96.0
+Gamification,159462,Kevin Werbach,4.8,2433,82.29,14.42,2.01,0.65,0.61,6.0,,17.0,97.0
+"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",248717,Tim Roughgarden,4.8,5280,82.82,13.59,1.87,0.62,1.07,4.0,Intermediate,,94.0
+Contabilidad para no contadores,582721,Manuel JesÃºs CÃ¡rdenas Espinosa,4.8,9368,80.08,16.52,2.62,0.36,0.4,9.0,Beginner,,98.0
+Using Python to Interact with the Operating System,267813,Google Career Certificates,4.7,6454,78.09,15.82,3.5,1.2,1.36,7.0,Beginner,,94.0
+Object-Oriented Data Structures in C++,112009,Wade Fagen-Ulmschneider,4.7,3009,77.64,17.07,2.95,0.89,1.42,4.0,Intermediate,,93.0
+Databases and SQL for Data Science with Python,529665,Rav Ahuja,4.7,21265,75.34,18.31,3.82,1.13,1.38,6.0,Beginner,,94.0
+Natural Language Processing in TensorFlow,148126,Laurence Moroney,4.6,6502,72.92,18.87,5.58,1.56,1.04,4.0,Intermediate,,95.0
+"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",158242,Han Smit,4.6,1303,74.0,18.02,4.06,0.76,3.14,5.0,Advanced,,93.0
+Natural Language Processing with Probabilistic Models,86100,Younes Bensouda Mourri,4.7,1740,79.52,14.96,3.38,0.8,1.31,4.0,Intermediate,,92.0
+Vital Signs: Understanding What the Body Is Telling Us,413703,"Connie B. Scanga, PhD",4.8,6646,86.27,11.54,1.53,0.3,0.34,6.0,,13.0,97.0
+Understanding Research Methods,374378,"Dr J. Simon Rofe, SOAS, University of London",4.6,8151,74.05,19.24,4.58,1.07,1.03,4.0,,6.0,98.0
+Customer Service Fundamentals,41357,Keith Gibson,4.8,1784,84.55,11.3,2.46,0.39,1.28,4.0,Beginner,,98.0
+Introduction to Calculus,260590,David Easdown,4.8,3766,87.26,10.16,1.16,0.58,0.82,5.0,Intermediate,,97.0
+Camino a la Excelencia en GestiÃ³n de Proyectos,312538,Paz Arroyo,4.7,6713,77.27,18.33,3.02,0.71,0.65,5.0,Beginner,,95.0
+Introduction to HTML5,583858,"Colleen van Lent, Ph.D.",4.7,27654,78.74,18.07,2.37,0.3,0.49,3.0,Beginner,,97.0
+Wine Tasting: Sensory Techniques for Wine Analysis,78227,John Buechsenstein,4.7,521,82.37,11.3,1.91,1.14,3.25,5.0,Beginner,,97.0
+Excel Skills for Business: Intermediate I,368839,Nicky Bull,4.9,17201,90.31,8.82,0.56,0.11,0.16,7.0,Intermediate,,96.0
+"Programming Foundations with JavaScript, HTML and CSS",588343,Susan H. Rodger,4.6,14753,72.56,21.01,3.92,1.03,1.47,5.0,Beginner,,95.0
+Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),219661,Shimon Schocken,4.9,3649,93.04,5.72,0.54,0.16,0.52,8.0,,43.0,97.0
+Food & Beverage Management,171002,Gabriele Troilo,4.8,4838,82.47,15.13,1.69,0.2,0.49,5.0,,13.0,98.0
+Data Analysis with Python,514763,Joseph Santarcangelo,4.7,18861,76.19,18.4,3.67,0.94,0.77,6.0,Intermediate,,94.0
+Agile Meets Design Thinking,174574,Alex Cowan,4.7,3477,80.34,15.83,2.41,0.66,0.74,4.0,Beginner,,94.0
+Construction Project Management,161031,"Ibrahim Odeh, Ph.D., MBA",4.8,7008,81.84,15.64,1.58,0.51,0.41,10.0,Beginner,,96.0
+Introduction to Mathematical Thinking,529052,Dr. Keith Devlin,4.8,2866,84.41,12.4,1.67,0.48,1.01,9.0,Intermediate,,96.0
+Everyday Parenting: The ABCs of Child Rearing,237902,"Alan E. Kazdin, PhD, ABPP",4.9,3038,92.04,7.09,0.49,0.16,0.19,4.0,Beginner,,99.0
+Introduction to Healthcare,63873,Nigam Shah,4.8,1167,81.7,15.12,2.05,0.25,0.85,7.0,Beginner,,97.0
+Machine Learning with Python,516852,Joseph Santarcangelo,4.7,16939,76.0,18.62,3.4,0.96,1.0,6.0,Intermediate,,94.0
+Terrorism and Counterterrorism: Comparing Theory and Practice,123723,Edwin Bakker,4.8,3195,80.35,16.73,2.06,0.5,0.34,6.0,Beginner,,98.0
+Data Management for Clinical Research,127909,"Stephany Duda, PhD",4.7,1718,79.21,17.82,1.68,0.58,0.69,6.0,Beginner,,94.0
+Sustainable Fashion,63636,Kirsti Reitan Andersen,4.8,754,82.36,14.19,2.25,0.39,0.79,8.0,Beginner,,98.0
+Foundations of Data Science: K-Means Clustering in Python,74068,Dr Matthew Yee-King,4.6,710,72.85,19.69,4.5,1.12,1.82,5.0,Beginner,,95.0
+Instructional Design Foundations and Applications,62213,Eunjung Grace Oh,4.0,748,47.66,26.83,12.14,7.47,5.87,5.0,,12.0,88.0
+Cursos en lÃ­nea: modelo para armar,13925,Guadalupe Vadillo,4.9,240,88.75,10.0,0.0,0.41,0.83,4.0,Beginner,,99.0
+Modern Art & Ideas,459598,Lisa Mazzola,4.8,6552,82.87,13.41,2.5,0.6,0.59,6.0,Beginner,,98.0
+"Speak English Professionally: In Person, Online & On the Phone",942129,Amalia B. Stephens,4.7,10196,79.38,15.55,2.79,0.81,1.46,5.0,,16.0,98.0
+Essential Google Cloud Infrastructure: Foundation,184155,Google Cloud Training,4.7,16689,77.87,19.36,2.21,0.25,0.29,4.0,Intermediate,,93.0
+Introduction to Artificial Intelligence (AI),521141,Rav Ahuja,4.7,17060,76.83,18.43,3.02,0.68,1.01,4.0,Beginner,,96.0
+Dog Emotion and Cognition,216488,Brian Hare,4.7,4622,77.97,15.84,3.93,1.01,1.23,8.0,,22.0,98.0
+International Leadership and Organizational Behavior,145618,Franz Wohlgezogen,4.8,3416,82.37,15.25,1.46,0.38,0.52,6.0,,16.0,98.0
+Driving business towards the Sustainable Development Goals,54958,MichaÃ©la Schippers,4.8,1489,86.48,11.63,1.6,0.06,0.2,7.0,Beginner,,99.0
+"The Sustainable Development Goals â A global, transdisciplinary vision for the future",102195,Katherine Richardson,4.8,4626,80.98,16.39,2.2,0.17,0.23,3.0,Beginner,,98.0
+Digital Transformation,176953,Michael Lenox,4.8,6208,81.17,16.37,1.67,0.33,0.43,4.0,Beginner,,96.0
+Sequence Models,432606,Andrew Ng,4.8,30632,83.68,12.95,2.58,0.47,0.3,4.0,Intermediate,,94.0
+Devenir entrepreneur du changement,82100,BÃ©nÃ©dicte Faivre-Tavignot,4.7,613,80.78,15.3,1.95,1.14,0.81,9.0,,27.0,98.0
+Seeing Through Photographs,406801,Sarah Meister,4.8,4432,81.49,15.32,2.18,0.49,0.49,7.0,Beginner,,98.0
+Entrepreneurship 1: Developing the Opportunity,154083,Lori Rosenkopf,4.8,4318,82.48,15.04,1.82,0.25,0.39,5.0,,10.0,96.0
+Introduction to Google SEO,324189,Rebekah May,4.6,10200,72.28,21.26,4.52,1.01,0.9,4.0,Beginner,,97.0
+Learn to Speak Korean 1,521500,Sang Mee Han,4.9,11461,92.11,6.94,0.67,0.12,0.14,6.0,Beginner,,100.0
+Circular Economy - Sustainable Materials Management,77386,Philip Peck,4.8,1994,82.21,14.77,2.25,0.35,0.4,5.0,Beginner,,97.0
+Drug Development,93487,"Williams S. Ettouati, Pharm.D.",4.7,2362,73.0,21.87,4.02,0.67,0.42,7.0,Beginner,,95.0
+R Programming,729864,"Roger D. Peng, PhD",4.5,22293,68.07,22.12,5.82,2.08,1.89,4.0,Intermediate,,94.0
+Economics of Money and Banking,178925,Perry G Mehrling,4.9,1645,90.15,7.59,1.09,0.36,0.79,13.0,,32.0,97.0
+Chinese for Beginners,1403032,Xiaoyu Liu,4.8,19785,84.85,12.19,1.99,0.39,0.55,7.0,,23.0,97.0
+Grammar and Punctuation,755886,Tamy Chapman,4.7,19349,78.71,17.35,2.76,0.45,0.7,4.0,,17.0,96.0
+Introduction to English Common Law,106767,Charlotte Crilly,4.8,1952,85.31,11.46,2.35,0.46,0.4,6.0,Beginner,,96.0
+Introduction to Dental Medicine,67090,Dr. Uri Hangorsky,4.8,1474,87.66,10.36,1.42,0.27,0.27,7.0,Beginner,,97.0
+Fundamentals of Reinforcement Learning,97266,Martha White,4.8,2824,81.6,14.53,2.65,0.42,0.77,5.0,Intermediate,,92.0
+Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,53443,Maurizio Zollo,4.6,887,71.39,23.76,2.81,1.46,0.56,6.0,,15.0,94.0
+Behavioral Finance,183558,Emma Rasiel,4.4,4261,62.34,25.5,8.0,2.36,1.78,3.0,Beginner,,96.0
+"Sequences, Time Series and Prediction",145031,Laurence Moroney,4.7,5107,77.85,15.86,3.93,1.15,1.19,4.0,Intermediate,,97.0
+Supply Chain Logistics,301205,"Rudolf Leuschner, Ph.D.",4.8,11126,81.22,15.03,2.13,0.76,0.83,4.0,Beginner,,95.0
+NutriciÃ³n y obesidad: control de sobrepeso,246700,Juan Luis Carrillo Toscano,4.8,5545,85.84,10.87,2.03,0.59,0.64,4.0,Beginner,,97.0
+Microeconomics Principles,190038,Dr. JosÃ© J. VÃ¡zquez-Cognet,4.8,3186,82.26,14.59,1.44,0.56,1.12,3.0,Beginner,,97.0
+Creative Writing: The Craft of Plot,314449,Brando Skyhorse,4.7,4896,76.79,17.57,3.63,0.93,1.06,4.0,,5.0,96.0
+Astronomy: Exploring Time and Space,252554,Chris Impey,4.8,3833,87.61,9.98,1.17,0.54,0.67,11.0,Beginner,,98.0
+Oil & Gas Industry Operations and Markets,152230,Lincoln Pratson,4.8,6132,82.34,15.69,1.48,0.16,0.3,2.0,,7.0,97.0
+Design Thinking for Innovation,452172,Jeanne M. Liedtka,4.7,8995,74.63,20.1,3.58,0.94,0.73,5.0,Beginner,,97.0
+EDIVET: Do you have what it takes to be a veterinarian?,77030,Dr Jessie Paterson,4.8,2476,82.4,14.97,2.21,0.24,0.16,6.0,,9.0,98.0
+Learn to Program: The Fundamentals,509194,Jennifer Campbell,4.7,6627,78.59,17.84,1.95,0.6,0.99,7.0,Beginner,,94.0
+Financial Accounting Fundamentals,165203,Luann J. Lynch,4.8,2728,85.46,12.63,1.17,0.36,0.36,5.0,Beginner,,97.0
+Finding Purpose and Meaning In Life: Living for What Matters Most,260401,Vic Strecher,4.8,2640,81.51,14.7,2.19,0.71,0.86,4.0,Beginner,,97.0
+Understanding Clinical Research: Behind the Statistics,186159,Juan H Klopper,4.8,3545,82.2,15.14,2.05,0.31,0.28,6.0,Beginner,,98.0
+Epidemiology: The Basic Science of Public Health,208011,Dr.  Karin Yeatts,4.7,4853,75.02,19.68,3.6,0.76,0.92,6.0,,6.0,94.0
+Fashion as Design,277857,Paola Antonelli,4.8,2920,86.78,10.33,1.5,0.47,0.88,7.0,Beginner,,98.0
+Teamwork Skills: Communicating Effectively in Groups,223355,"Matthew A. Koschmann, PhD",4.7,3377,80.65,14.37,2.6,0.82,1.53,4.0,Beginner,,97.0
+Feminism and Social Justice,125191,Bettina Aptheker,4.8,6267,85.95,11.73,1.68,0.3,0.31,5.0,Beginner,,99.0
+International Organizations Management,73877,Gilbert Probst,4.8,1928,80.52,16.2,2.33,0.51,0.41,6.0,Beginner,,98.0
+Marketing Digital,256557,Artur Vilas Boas,4.8,2237,82.48,13.63,1.78,0.66,1.42,5.0,Beginner,,97.0
+Fundamentals of GIS,179715,Nick Santos,4.8,5729,86.53,10.86,1.34,0.38,0.87,4.0,Beginner,,97.0
+e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,49360,Dr William Cope,4.8,1427,86.58,10.09,2.14,0.27,0.89,4.0,,19.0,98.0
+"Excel/VBA for Creative Problem Solving, Part 1",161707,Charlie Nuttelman,4.8,4240,87.14,10.05,1.34,0.35,1.1,6.0,Beginner,,93.0
+Learn without limits,77,,,0,,,,,,,,,
+Introduction to Probability and Data with R,294215,Mine Ãetinkaya-Rundel,4.7,5728,78.22,17.18,2.51,0.66,1.41,8.0,Beginner,,94.0
+Understanding and Visualizing Data with Python,142815,Brenda Gunderson,4.7,2663,75.95,18.45,3.52,0.93,1.12,4.0,Beginner,,95.0
+Fundamentals of Visualization with Tableau,263798,Desiree' Abbott,4.5,6661,66.2,24.2,5.83,1.69,2.05,4.0,Beginner,,92.0
+Getting Started with SAS Programming,111275,Stacey Syphus,4.8,3102,84.96,12.42,1.32,0.32,0.96,8.0,Beginner,,90.0
+Machine Learning for All,180449,Prof Marco Gillies,4.7,3444,75.14,19.91,3.54,0.58,0.81,4.0,Beginner,,96.0
+Using Databases with Python,512314,Charles Russell Severance,4.8,21393,82.23,14.21,2.28,0.46,0.8,5.0,Beginner,,95.0
+Addiction Treatment: Clinical Skills for Healthcare Providers,69634,Jeanette M. Tetrault,4.8,1903,86.87,11.65,1.1,0.15,0.2,6.0,Beginner,,98.0
+Dino 101: Dinosaur Paleobiology,81036,"Philip John Currie, PhD",4.9,3616,92.18,7.07,0.6,0.05,0.08,12.0,Beginner,,98.0
+Sports Marketing,52295,Candy Lee,4.7,1379,77.33,19.26,2.75,0.28,0.36,6.0,Intermediate,,97.0
+Positive Psychology,306623,Dr. Barbara L. Fredrickson,4.7,5943,80.4,15.0,3.09,0.77,0.72,6.0,,11.0,98.0
+Introduction to Programming with MATLAB,502711,Akos Ledeczi,4.8,17759,82.98,14.63,1.67,0.27,0.43,9.0,Beginner,,98.0
+Preparing to Manage Human Resources,277450,John W. Budd,4.8,10127,83.24,14.2,1.65,0.33,0.55,4.0,,17.0,97.0
+Solar Energy Basics,113394,Neal Abrams,4.8,2503,81.66,15.78,1.67,0.39,0.47,5.0,Beginner,,96.0
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,114807,Google Cloud Training,4.3,1329,57.33,27.16,8.27,2.63,4.58,3.0,Intermediate,,95.0
+Introduction to Forensic Science,167572,Roderick  Bates,4.9,2575,88.63,9.46,1.04,0.27,0.58,9.0,,18.0,98.0
+Modernize Infrastructure and Applications with Google Cloud,48565,Google Cloud Training,4.7,1593,79.54,16.87,2.07,0.69,0.81,4.0,Beginner,,98.0
+American Contract Law I,68934,Ian Ayres,4.8,980,87.98,9.77,1.01,0.3,0.91,7.0,Beginner,,97.0
+Engineering Health: Introduction to Yoga and Physiology,66038,Alexandra Seidenstein,4.8,516,85.88,11.6,1.16,0.19,1.16,14.0,Beginner,,98.0
+AI for Medical Diagnosis,79365,Pranav Rajpurkar,4.7,1996,76.58,17.6,3.7,1.25,0.85,3.0,Intermediate,,97.0
+Natural Language Processing with Sequence Models,73821,Younes Bensouda Mourri,4.5,1156,70.89,16.23,6.73,3.36,2.76,3.0,Intermediate,,93.0
+Introduction to Electronics,249147,Dr. Bonnie H. Ferri,4.7,2517,76.76,18.3,2.62,1.03,1.27,7.0,,45.0,93.0
+International Humanitarian Law in Theory and Practice,73012,Robert Heinsch,4.8,1891,83.28,15.34,1.0,0.15,0.21,6.0,Beginner,,97.0
+Making Architecture,143470,Nenad Katic,4.8,1383,83.09,12.5,2.67,0.65,1.08,4.0,Beginner,,97.0
+Model Thinking,204609,Scott E. Page,4.8,2231,82.39,14.06,2.15,0.53,0.85,12.0,Intermediate,,97.0
+Learn without limits,77,,,0,,,,,,,,,
+Innovation Management,120058,Jasmien Khattab,4.7,2126,74.94,21.06,3.05,0.42,0.51,6.0,Beginner,,93.0
+The Manager's Toolkit: A Practical Guide to Managing People at Work,190289,Dr Chris Dewberry,4.7,4179,73.66,20.88,3.94,0.71,0.78,6.0,,33.0,97.0
+"The Modern World, Part One: Global History from 1760 to 1910",207958,Philip Zelikow,4.8,2998,83.5,13.93,1.86,0.23,0.46,7.0,Beginner,,95.0
+Fundamentals of Music Theory,382161,Dr Thomas Butler,4.5,1804,71.77,17.54,4.81,3.2,2.65,6.0,Beginner,,95.0
+Supply Chain Principles,100065,Timothy M Brown,4.6,2137,71.7,22.54,4.16,0.98,0.6,5.0,,12.0,96.0
+Essential Google Cloud Infrastructure: Core Services,148679,Google Cloud Training,4.7,11417,75.62,21.19,2.6,0.28,0.29,6.0,Intermediate,,92.0
+Weight Management: Beyond Balancing Calories,161657,"Sharon Horesh Bergquist, MD",4.7,1183,80.5,14.76,2.61,0.75,1.35,5.0,Beginner,,98.0
+Miracles of Human Language: An Introduction to Linguistics,215471,Marc van Oostendorp,4.7,2452,79.08,15.16,3.3,0.97,1.46,6.0,Beginner,,96.0
+Java Programming: Solving Problems with Software,394605,Owen Astrachan,4.6,7995,72.35,19.31,4.03,1.3,2.98,5.0,Beginner,,92.0
+Race and Cultural Diversity in American Life and History,46156,James D. Anderson,4.6,299,71.9,21.4,4.01,0.33,2.34,4.0,Beginner,,95.0
+Inspiring and Motivating Individuals,249973,"Maxim Sytch, Ph.D.",4.8,5752,82.98,14.58,1.7,0.27,0.45,4.0,Beginner,,97.0
+"Competencias digitales. Herramientas de ofimÃ¡tica (Microsoft Word, Excel, Power Point)",266669,Miquel Mazuque Periz,4.8,6282,84.64,12.46,1.66,0.3,0.92,6.0,Beginner,,99.0
+Healing with the Arts,102589,"Mary Rockwood Lane, PhD, RN, FAAN",4.6,937,80.68,11.2,3.62,1.06,3.41,6.0,,12.0,99.0
+People Analytics,143950,Cade Massey,4.6,6066,66.57,25.54,5.91,1.31,0.64,4.0,,8.0,94.0
+What is Social?,171462,Randy Hlavac,4.6,4179,73.63,19.04,4.52,1.43,1.36,4.0,,8.0,97.0
+UX Design Fundamentals,124285,Michael Worthington,4.8,2190,84.29,12.59,1.68,0.63,0.77,5.0,Beginner,,97.0
+Creative Thinking: Techniques and Tools for Success,431153,Peter Childs,4.7,4745,75.97,18.42,3.2,1.07,1.32,7.0,Beginner,,96.0
+Introduction to Classical Music,254723,Craig Wright,4.9,4000,92.18,6.66,0.64,0.37,0.12,9.0,,65.0,97.0
+Children's Human Rights - An Interdisciplinary Introduction,82789,Roberta Ruggiero,4.7,2122,76.86,18.75,3.11,0.65,0.61,7.0,Beginner,,97.0
+Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,53645,Hugues Langlois,4.6,776,73.17,17.84,5.39,1.54,2.05,4.0,Intermediate,,94.0
+Introduction to Data Analysis Using Excel,281251,Sharad Borle,4.7,10385,75.96,20.21,2.68,0.45,0.68,4.0,,24.0,93.0
+Mind Control: Managing Your Mental Health During COVID-19,189422,Steve Joordens,4.8,8609,84.65,12.79,1.69,0.38,0.47,4.0,Beginner,,99.0
+Introduction to International Criminal Law,192804,Michael Scharf,4.8,3864,86.5,11.06,1.57,0.31,0.54,8.0,,12.0,98.0
+"FinTech: Foundations, Payments, and Regulations",59673,Christopher Geczy,4.6,2472,71.22,21.94,4.89,1.09,0.84,4.0,Beginner,,95.0
+Greek and Roman Mythology,265725,Peter Struck,4.8,2453,82.59,14.23,2.19,0.52,0.44,10.0,,24.0,97.0
+Politics and Economics of International Energy,76832,Giacomo Luciani,4.7,1840,78.71,18.45,1.68,0.54,0.59,8.0,Beginner,,93.0
+Continuous Delivery & DevOps,88990,Alex Cowan,4.6,1622,69.31,23.84,4.68,1.47,0.67,4.0,Beginner,,95.0
+Teach English Now! Foundational Principles,251286,Emilia Gracia,4.9,15410,93.75,5.04,0.57,0.18,0.42,6.0,,18.0,99.0
+Introduction to User Experience Principles and Processes,92029,Mark Newman,4.8,1549,84.13,13.02,1.74,0.45,0.64,6.0,Beginner,,95.0
+Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,23291,Arun Agrawal,4.7,643,79.47,17.1,2.33,0.62,0.46,5.0,Beginner,,98.0
+Process Mining: Data science in Action,90146,Wil van der Aalst,4.7,1235,80.97,14.81,2.51,0.72,0.97,6.0,Intermediate,,97.0
+Fundamentals of Immunology: Innate Immunity and B-Cell Function,73466,"Alma Moon Novotny, Ph.D.",4.7,1781,82.53,13.08,2.35,0.72,1.29,7.0,Intermediate,,96.0
+Introduction to Corporate Finance,238945,Michael R Roberts,4.6,6140,69.98,21.77,5.48,1.57,1.17,4.0,,7.0,95.0
+Global Diplomacy: the United Nations in the World,91439,"Dr Dan Plesch, SOAS University of London",4.7,1674,77.92,17.3,3.52,0.89,0.35,7.0,Beginner,,98.0
+Algorithmic Toolbox,542157,Neil Rhodes,4.6,12497,71.85,21.43,4.21,1.04,1.44,6.0,Intermediate,,91.0
+Troubles du spectre de l'autisme : diagnostic,27757,AurÃ©lie Bochet,4.9,791,90.27,8.96,0.63,0.0,0.12,6.0,Intermediate,,97.0
+Anatomy: Musculoskeletal and Integumentary Systems,121177,Kathleen Alsup,4.8,2308,86.19,11.38,1.34,0.25,0.82,4.0,Beginner,,97.0
+Unraveling the Cycling City,13019,Marco te BrÃ¶mmelstroet,4.9,245,91.42,7.34,0.0,0.81,0.4,5.0,Intermediate,,96.0
+A Crash Course in Causality:  Inferring Causal Effects from Observational Data,43883,"Jason A. Roy, Ph.D.",4.7,561,77.0,19.25,1.96,0.71,1.06,5.0,Intermediate,,90.0
+Natural Language Processing with Attention Models,81375,Younes Bensouda Mourri,4.4,1047,68.31,14.55,8.37,4.75,3.99,3.0,Intermediate,,83.0
+What is Compliance?,40430,Andrew Kandel,4.8,1344,86.56,11.06,1.33,0.29,0.74,4.0,,10.0,96.0
+Doing more with Google Sheets,102897,Google Cloud Training,4.6,1361,72.74,20.36,4.46,1.46,0.95,5.0,Beginner,,95.0
+Data Visualization with Python,310444,Saishruthi Swaminathan,4.5,11983,68.84,19.29,6.24,2.88,2.71,5.0,Intermediate,,91.0
+Mindfulness and Well-being: Foundations,98618,Dr. Elizabeth Slator,4.8,805,87.7,8.81,1.24,1.24,0.99,5.0,Beginner,,99.0
+NegociaciÃ³n exitosa: Estrategias y habilidades esenciales (en espaÃ±ol),188139,George Siedel,4.8,2664,84.65,13.02,1.65,0.37,0.3,7.0,,14.0,99.0
+Data-driven Decision Making,194850,Alex Mannella,4.6,6125,71.02,21.52,4.92,1.25,1.25,4.0,Beginner,,97.0
+Fundamentals of Engineering Exam Review,94183,Dr. Philip Roberts,4.7,610,77.21,16.55,2.95,1.14,2.13,8.0,,21.0,94.0
+Gender and Sexuality: Diversity and Inclusion in the Workplace,54854,Julie Beaulieu,4.8,1038,81.52,15.01,1.73,0.67,1.05,4.0,Beginner,,97.0
+Managerial Accounting Fundamentals,74871,Luann J. Lynch,4.8,791,83.73,13.36,1.26,0.5,1.13,4.0,Beginner,,97.0
+Google SEO Fundamentals,171879,Rebekah May,4.8,3614,80.69,16.24,1.79,0.41,0.85,4.0,,29.0,96.0
+Essentials of Global Health,85122,Richard Skolnik,4.8,2146,87.23,11.13,1.16,0.27,0.18,10.0,,71.0,96.0
+International Security Management,30560,Alice Raven,4.7,1206,76.61,17.24,4.97,0.49,0.66,7.0,Beginner,,97.0
+Arts and Heritage Management,43538,Andrea Rurale,4.8,1460,79.8,17.38,1.98,0.34,0.47,6.0,,16.0,98.0
+Understanding Einstein: The Special Theory of Relativity,173625,Larry Randles Lagerstrom,4.9,3103,90.91,7.76,0.77,0.19,0.35,8.0,Beginner,,98.0
+RÃ©ussir le Changement,53031,Jean-Marie PERETTI,4.5,2036,62.86,30.59,5.25,0.93,0.34,7.0,,12.0,91.0
+Equine Welfare and Management,25230,"Claudia Sonder, DVM",4.9,388,89.71,8.48,0.77,0.51,0.51,6.0,Beginner,,97.0
+International migrations: a global issue,31290,Catherine Wihtol De Wenden,4.7,542,74.35,19.55,4.79,0.92,0.36,9.0,Beginner,,98.0
+Introduction to Web Development,249641,William Mead,4.7,3681,73.43,21.32,3.77,0.62,0.84,4.0,Beginner,,96.0
+Writing and Editing: Word Choice and Word Order,143754,Patrick Barry,4.7,1942,81.72,13.17,2.72,0.92,1.44,4.0,Beginner,,98.0
+Introduction to Digital Advertising,37178,Chris J. Vargo,4.5,402,69.65,22.38,3.98,1.24,2.73,5.0,Beginner,,94.0
+Engineering Project Management: Initiating and Planning,113562,Tom Phalen,4.7,3402,79.58,17.33,1.99,0.44,0.64,6.0,Beginner,,97.0
+Kotlin for Java Developers,118927,Svetlana Isakova,4.7,2080,75.97,18.5,3.5,0.67,1.34,5.0,Intermediate,,91.0
+Mathematics for Machine Learning: Multivariate Calculus,146755,Samuel J. Cooper,4.7,5680,77.09,18.8,3.11,0.63,0.35,6.0,Beginner,,91.0
+Introduction to Git and GitHub,304139,Google Career Certificates,4.8,7677,82.09,15.0,1.8,0.44,0.65,4.0,Beginner,,97.0
+Industrial Biotechnology,125131,Prof. Nicholas Turner,4.7,3449,74.31,20.79,3.24,0.69,0.95,6.0,Beginner,,97.0
+The Addicted Brain,182328,"Michael Kuhar, Ph.D.",4.7,2218,76.12,17.14,4.24,1.3,1.17,8.0,Beginner,,97.0
+IntroducciÃ³n a la programaciÃ³n en Python I: Aprendiendo a programar con Python,339987,Jorge MuÃ±oz Gama,4.4,4764,61.03,26.12,7.45,2.32,3.05,6.0,Beginner,,92.0
+Modernizing Data Lakes and Data Warehouses with Google Cloud,55346,Google Cloud Training,4.7,2838,73.08,22.61,3.17,0.73,0.38,5.0,Intermediate,,84.0
+Drug Discovery,139055,"Williams S. Ettouati, Pharm.D.",4.6,3820,71.16,24.04,3.68,0.57,0.52,6.0,Beginner,,97.0
+Nutrition and Lifestyle in Pregnancy,113118,Prof. Dr. Berthold Koletzko,4.8,3133,81.41,15.46,2.48,0.25,0.38,4.0,Intermediate,,98.0
+Financial Acumen for Non-Financial Managers,42096,Richard Lambert,4.5,952,66.0,23.71,6.4,2.72,1.15,4.0,Beginner,,92.0
+Python and Statistics for Financial Analysis,254230,Xuhu Wan,4.4,4404,58.99,29.32,7.88,1.9,1.88,4.0,Intermediate,,96.0
+Bugs 101: Insect-Human Interactions,49428,Dr. Maya Evenden,4.9,1440,92.37,5.96,0.97,0.13,0.55,13.0,Beginner,,98.0
+"Leading for Equity, Diversity and Inclusion in Higher Education",24149,Dr. John C. Burkhardt,4.6,295,73.55,20.67,2.71,0.33,2.71,5.0,Intermediate,,94.0
+Digital Media and Marketing Strategies,137296,Mike Yao,4.6,3130,71.57,20.28,4.72,1.78,1.62,4.0,Beginner,,95.0
+Introduction to Spreadsheets and Models,122482,Don Huesman,4.2,3835,50.59,26.77,13.66,5.5,3.46,4.0,,5.0,81.0
+The Arts and Science of Relationships: Understanding Human Needs,239396,A. Ka Tat Tsang,4.5,1762,73.29,16.32,4.02,1.92,4.42,6.0,Beginner,,97.0
+Essentials in Clinical Simulations Across the Health Professions,23681,Pamela R. Jeffries,4.8,1124,80.39,17.12,2.12,0.35,0.0,7.0,Intermediate,,96.0
+Budgeting and Scheduling Projects,195485,"Margaret  Meloni,  MBA, PMP",4.7,9182,76.04,20.52,2.74,0.38,0.3,5.0,,6.0,98.0
+Managing Machine Learning Projects with Google Cloud,124028,Google Cloud Training,4.6,3681,70.41,23.58,4.04,0.7,1.24,8.0,Beginner,,92.0
+Introduction to Accounting Data Analytics and Visualization,29694,Ronald Guymon,4.8,440,84.31,13.18,0.45,0.9,1.13,9.0,Beginner,,93.0
+Spanish Vocabulary: Meeting People,245355,Dr. Robert Blake,4.6,3253,75.79,16.3,2.64,1.32,3.93,4.0,Beginner,,94.0
+GestiÃ³n Empresarial Exitosa para Pymes,244566,JosÃ© Rivera Izam,4.8,5327,85.83,12.19,1.59,0.18,0.18,5.0,,8.0,99.0
+International Law in Action: the Arbitration of International Disputes,63055,Eric De Brabandere,4.8,1236,81.32,16.16,1.53,0.32,0.64,5.0,,10.0,97.0
+Introduction to Ancient Egypt and Its Civilization,132330,David P. Silverman,4.6,2814,72.53,20.14,5.79,1.2,0.31,6.0,Intermediate,,98.0
+Financing and Investing in Infrastructure,62632,Stefano Gatti,4.8,2025,83.31,15.2,1.23,0.09,0.14,7.0,,10.0,97.0
+Global Environmental Management,76199,Henrik BregnhÃ¸j,4.7,2135,73.87,22.42,3.04,0.37,0.28,5.0,Intermediate,,96.0
+Operations Analytics,123624,Senthil Veeraraghavan,4.7,5119,76.51,19.04,3.32,0.58,0.52,4.0,,10.0,93.0
+Entrepreneurship Strategy: From Ideation to Exit,62470,Ambroise Huret,4.7,1151,78.8,16.94,1.99,0.95,1.3,4.0,Beginner,,97.0
+FinTech Law and Policy,38692,"Lee Reiners, CFA",4.8,865,80.02,16.97,2.42,0.23,0.34,6.0,Beginner,,98.0
+The Social Context of Mental Health and Illness,56483,Charmaine Williams,4.7,559,79.1,14.82,2.5,1.6,1.96,6.0,,14.0,98.0
+What Is Contemporary Art?,160584,Sophie Cavoulacos,4.7,1849,79.41,16.48,2.8,0.7,0.59,6.0,Beginner,,97.0
+The Art of Music Production,109638,Stephen Webber,4.8,2038,84.16,12.05,2.25,0.78,0.73,5.0,Intermediate,,98.0
+Biohacking Your Brain's Health,109286,"Karima Benameur, MD",4.7,1425,76.24,18.07,3.99,1.05,0.63,4.0,Beginner,,98.0
+Bayesian Statistics: From Concept to Data Analysis,153680,Herbert Lee,4.6,3189,67.28,25.13,5.23,1.28,1.06,4.0,Intermediate,,91.0
+Reporting extra-financier et stratÃ©gie RSE,16881,Thierry Sibieude,4.6,412,70.87,24.27,3.15,1.45,0.24,4.0,Beginner,,95.0
+Leading Healthcare Quality and Safety,60537,Gregory Pawlson,4.8,1401,79.34,18.01,1.92,0.42,0.28,5.0,Beginner,,98.0
+Introduction to Data Analytics,681890,Rav Ahuja,4.8,17922,80.27,16.63,2.04,0.41,0.63,5.0,Beginner,,98.0
+Fundamentos de Excel para Negocios,318761,Jorge Lardizabal,4.8,5201,82.96,14.31,1.9,0.32,0.49,8.0,Beginner,,98.0
+Elastic Google Cloud Infrastructure: Scaling and Automation,131795,Google Cloud Training,4.7,9155,76.35,19.85,2.83,0.55,0.39,5.0,Intermediate,,84.0
+Cultural Competence - Aboriginal Sydney,14292,Gabrielle Russell,4.7,275,82.18,13.81,1.45,1.81,0.72,6.0,Beginner,,97.0
+Fundamentos de Finanzas Empresariales,204384,DarÃ­o Alejandro Fuentes,4.9,4766,89.45,9.26,0.81,0.12,0.33,6.0,Beginner,,99.0
+Greening the Economy: Sustainable Cities,95672,Kes McCormick,4.7,2439,75.48,18.12,4.92,0.73,0.73,5.0,Beginner,,96.0
+Introduction to Engineering Mechanics,277687,"Dr. Wayne Whiteman, PE",4.8,5047,82.04,15.03,1.94,0.39,0.57,5.0,,14.0,96.0
+Design-Led Strategy: Design thinking for business strategy and entrepreneurship,82226,Eric Knight,4.6,1225,72.53,21.59,4.15,0.97,0.73,5.0,Intermediate,,96.0
+Biology Meets Programming: Bioinformatics for Beginners,200845,Pavel  Pevzner,4.2,1568,54.01,27.61,8.48,4.33,5.54,4.0,Beginner,,94.0
+Understanding Medical Research: Your Facebook Friend is Wrong,101771,F. Perry Wilson,4.9,2112,92.05,7.14,0.42,0.09,0.28,7.0,Beginner,,98.0
+Health Behavior Change: From Evidence to Action,52093,Marney White,4.8,433,83.9,11.03,2.52,1.6,0.91,8.0,Beginner,,99.0
+Ordered Data Structures,32893,Wade Fagen-Ulmschneider,4.8,916,83.55,12.96,2.39,0.65,0.43,4.0,,18.0,91.0
+Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,480085,Dr. Barbara Oakley,4.8,12966,84.08,13.34,1.81,0.3,0.44,4.0,Beginner,,98.0
+Programming Fundamentals,221766,Andrew D. Hilton,4.7,6859,74.77,20.02,3.0,0.84,1.35,4.0,Beginner,,94.0
+Understanding Financial Markets,178535,Ines Chaieb,4.8,5787,79.95,17.02,2.12,0.36,0.53,4.0,Beginner,,94.0
+In the Studio: Postwar Abstract Painting,144287,Alex Roediger,4.9,1488,92.68,5.97,0.6,0.33,0.4,9.0,Beginner,,99.0
+Drug Commercialization,55642,"Williams S. Ettouati, Pharm.D.",4.7,1291,76.64,18.87,3.71,0.61,0.15,9.0,Beginner,,97.0
+Introduction to Software Product Management,135172,Kenny Wong,4.6,7692,71.84,21.68,4.56,1.15,0.75,2.0,,4.0,96.0
+"Social Norms, Social Change I",115297,Cristina Bicchieri,4.6,2048,72.78,20.14,5.02,1.07,0.97,4.0,Beginner,,98.0
+Excel Skills for Business: Intermediate II,227704,Nicky Bull,4.8,8259,84.47,13.04,1.85,0.38,0.24,7.0,Intermediate,,96.0
+Aboriginal Worldviews and Education,30270,Jean-Paul Restoule,4.7,478,76.81,18.42,1.86,0.62,2.27,7.0,Beginner,,97.0
+"Information Systems Auditing, Controls and Assurance",103500,Garvin Percy DIAS,4.7,3837,77.74,18.71,2.65,0.41,0.46,4.0,Beginner,,98.0
+Six Sigma Principles,190768,"David Cook, PhD",4.7,7977,73.88,20.56,3.71,0.88,0.93,4.0,Beginner,,94.0
+Business Writing,200440,Dr. Quentin McAndrew,4.8,4772,81.49,15.49,1.98,0.46,0.56,4.0,Beginner,,98.0
+Introduction to Typography,178748,Anther Kiley,4.8,5726,82.84,14.45,2.0,0.34,0.34,4.0,Beginner,,98.0
+Claves para Gestionar Personas,111403,Guido Stein,4.8,2313,83.42,14.45,1.68,0.08,0.34,5.0,,10.0,99.0
+English for Journalism,248364,John Cotton,4.8,2802,84.85,12.72,1.56,0.28,0.57,5.0,,42.0,99.0
+How Things Work: An Introduction to Physics,272589,Louis A. Bloomfield,4.8,2980,86.04,10.57,2.04,0.5,0.83,8.0,Intermediate,,95.0
+Business English: Networking,236286,Richard Moore,4.7,3381,83.11,12.56,1.92,0.94,1.44,5.0,Intermediate,,97.0
+Summary Statistics in Public Health,58114,"John McGready, PhD, MS",4.8,1962,83.55,14.15,1.47,0.35,0.45,6.0,Beginner,,96.0
+Global Energy and Climate Policy,36857,Harald Heubaum,4.7,679,75.69,17.67,4.12,1.17,1.32,6.0,Beginner,,97.0
+El Abogado del Futuro: Legaltech y la TransformaciÃ³n Digital del Derecho,49590,Federico Ast,4.9,1186,90.58,8.32,0.67,0.08,0.33,5.0,Beginner,,98.0
+Probability and Statistics: To p or not to p?,86158,Dr James Abdey,4.6,1474,74.62,19.33,3.12,1.42,1.49,6.0,Beginner,,96.0
+Gut Check: Exploring Your Microbiome,102466,Rob Knight,4.7,1203,78.65,17.35,2.49,0.83,0.66,6.0,Beginner,,95.0
+Econometrics: Methods and Applications,191565,Francine Gresnigt,4.6,1206,73.11,18.09,4.23,1.9,2.65,9.0,,66.0,95.0
+Mastering Data Analysis in Excel,347729,Jana Schaich Borg,4.2,3928,56.27,23.98,9.14,5.32,5.27,7.0,,21.0,93.0
+Basic Statistics,300597,Matthijs Rooduijn,4.6,4523,74.22,18.79,4.35,1.14,1.48,9.0,Beginner,,96.0
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",299362,Charles Russell Severance,4.7,14061,82.27,12.37,3.36,1.05,0.93,7.0,Beginner,,98.0
+Design Thinking for the Greater Good: Innovation in the Social Sector,44794,Jeanne M. Liedtka,4.7,413,72.22,22.94,3.38,1.2,0.24,4.0,Beginner,,95.0
+Introduction to Portfolio Construction and Analysis with Python,71477,"Vijay Vaidyanathan, PhD",4.8,1429,85.37,12.17,1.39,0.34,0.69,4.0,,25.0,94.0
+Data Analytics for Lean Six Sigma,87793,Inez Zwetsloot,4.8,3376,84.73,14.01,0.91,0.17,0.14,7.0,Beginner,,98.0
+Refugees in the 21st Century,25227,Professor David Cantor,4.8,554,83.03,14.98,1.44,0.36,0.18,6.0,Beginner,,98.0
+Containerized Applications on AWS,25188,Morgan Willis,4.6,167,69.82,26.03,1.18,0.59,2.36,4.0,Beginner,,94.0
+Version Control with Git,127679,Steve Byrnes,4.7,2956,78.64,18.31,2.19,0.43,0.4,4.0,,13.0,97.0
+"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",114922,Associate Professor Simon McIntyre,4.7,909,78.39,16.88,3.17,0.87,0.65,6.0,,26.0,98.0
+Excel aplicado a los negocios (Nivel Avanzado),207136,Jorge Lardizabal,4.8,2916,81.0,16.38,2.02,0.34,0.23,9.0,Intermediate,,97.0
+Introduction to Public Speaking,353472,Dr. Matt McGarrity,4.7,2152,82.51,13.68,1.62,0.32,1.85,5.0,Beginner,,97.0
+Software Development,0,,,0,,,,,,,,,
+Guitar for Beginners,308841,Thaddeus Hogarth,4.8,2253,83.68,12.58,1.86,0.8,1.06,7.0,,22.0,97.0
+Managing Project Risks and Changes,180448,"Margaret  Meloni,  MBA, PMP",4.7,9135,77.94,18.84,2.54,0.37,0.28,5.0,,5.0,98.0
+L'excellence opÃ©rationnelle en pratique,25599,Gilles PANCZER,4.7,652,75.3,23.15,1.07,0.3,0.15,4.0,Beginner,,96.0
+Introduction to Cloud Computing,378960,Rav Ahuja,4.6,7052,73.29,20.11,3.84,1.23,1.51,6.0,Beginner,,96.0
+Sample-based Learning Methods,34928,Martha White,4.8,1241,82.28,13.28,2.81,0.64,0.96,5.0,Intermediate,,90.0
+Functional Programming Principles in Scala,217509,Martin Odersky,4.8,8249,83.54,13.51,1.69,0.66,0.56,6.0,Intermediate,,91.0
+Introduction to Blockchain Technologies,81586,Don Tapscott,4.7,2465,79.54,17.09,2.43,0.36,0.56,5.0,Beginner,,97.0
+Introduction to Environmental Law and Policy,88632,Donald Hornstein,4.8,3137,86.39,11.82,1.4,0.12,0.25,7.0,,14.0,99.0
+"Cameras, Exposure, and Photography",284758,Peter Glendinning,4.8,5230,80.81,15.59,2.44,0.45,0.68,4.0,,19.0,96.0
+Democracia y decisiones pÃºblicas. IntroducciÃ³n al anÃ¡lisis de polÃ­ticas pÃºblicas,71836,Joan Subirats Humet,4.8,1380,86.81,11.59,1.08,0.21,0.28,9.0,Beginner,,98.0
+Dentistry 101,27932,Russell Taichman,4.8,369,85.63,10.29,1.62,0.81,1.62,4.0,Beginner,,94.0
+"Python Functions, Files, and Dictionaries",137172,Paul Resnick,4.8,5353,87.15,11.18,1.21,0.16,0.28,5.0,Beginner,,97.0
+AnticorrupciÃ³n: IntroducciÃ³n a conceptos y perspectiva prÃ¡ctica,39993,Fabiola Navarro Luna,4.8,1341,87.78,9.6,1.34,0.52,0.74,6.0,Beginner,,97.0
+Positive Psychology: Applications and Interventions,53790,"James Pawelski, Ph.D.",4.8,2145,85.36,11.04,2.14,0.79,0.65,4.0,Beginner,,97.0
+Introduction to Embedded Systems Software and Development Environments,128832,Alex Fosdick,4.5,626,69.95,18.75,4.76,2.54,3.97,4.0,Intermediate,,93.0
+Personal & Family Financial Planning,176567,"Michael S. Gutter, Ph.D.",4.6,1515,72.57,19.31,4.81,1.71,1.58,9.0,,15.0,95.0
+A Law Student's Toolkit,175393,Ian Ayres,4.7,1501,78.97,16.23,2.39,0.93,1.46,7.0,,15.0,96.0
+IntroducciÃ³n a Data Science: ProgramaciÃ³n EstadÃ­stica con R,233746,Carlos Ernesto LÃ³pez NatarÃ©n,4.7,8442,78.39,18.29,2.39,0.4,0.5,5.0,Beginner,,97.0
+"Operating Systems: Overview, Administration, and Security",149355,IBM Skills Network Team,4.6,5573,73.49,19.62,4.39,1.37,1.11,5.0,Beginner,,92.0
+Computational Neuroscience,138020,Rajesh P. N. Rao,4.6,1094,70.56,22.48,4.29,1.82,0.82,8.0,Beginner,,95.0
+De-Mystifying Mindfulness,224685,Chris Goto-Jones,4.8,1578,84.42,10.89,2.08,0.82,1.77,9.0,Beginner,,98.0
+Smart Cities â Management of Smart Urban Infrastructures,59629,Matthias Finger,4.7,1817,73.94,21.77,3.18,0.6,0.49,5.0,Beginner,,98.0
+Getting Started with Go,75583,Ian Harris,4.6,2376,71.75,20.38,4.79,1.97,1.09,6.0,Intermediate,,93.0
+Introduction to Economic Theories,74783,Irene van Staveren,4.5,355,72.11,16.05,4.5,1.69,5.63,8.0,Beginner,,94.0
+Probabilistic Graphical Models 1: Representation,92174,Daphne Koller,4.6,1436,74.58,17.82,5.22,1.04,1.32,7.0,Advanced,,83.0
+Introduction to Personal Branding,301584,"Kimberley  Barker, MLIS",4.4,8799,63.97,23.52,7.77,2.46,2.26,6.0,Beginner,,98.0
+Love as a Force for Social Justice,40641,Anne Firth Murray,4.7,420,84.04,10.0,2.61,1.66,1.66,11.0,Beginner,,98.0
+Mathematical Thinking in Computer Science,139622,Alexander S. Kulikov,4.4,2251,64.26,23.3,7.1,2.13,3.19,6.0,Beginner,,88.0
+Introduction to Genetics and Evolution,172809,Dr. Mohamed Noor,4.8,1723,84.74,11.54,1.97,0.81,0.92,12.0,,25.0,97.0
+Improving Communication Skills,159535,Maurice Schweitzer,4.7,2008,75.46,18.81,3.68,1.14,0.89,4.0,Beginner,,96.0
+"Introduction to Trading, Machine Learning & GCP",59169,Jack Farmer,4.0,864,44.5,29.13,13.98,4.62,7.74,4.0,Intermediate,,86.0
+Software Development,0,,,0,,,,,,,,,
+"The Modern World, Part Two: Global History since 1910",82111,Philip Zelikow,4.8,1620,88.33,9.44,1.17,0.8,0.24,7.0,Beginner,,93.0
+Understanding Plants - Part I: What a Plant Knows,117449,"Professor Daniel Chamovitz, Ph.D.",4.8,1885,85.79,11.71,1.21,0.42,0.84,7.0,Beginner,,96.0
+Excel Fundamentals for Data Analysis,190140,Nicky Bull,4.8,3930,81.84,15.56,1.72,0.22,0.63,7.0,Intermediate,,96.0
+Finanzas personales,571757,Norman Wolf del Valle,4.8,8770,82.32,14.67,2.08,0.47,0.43,6.0,,8.0,99.0
+English Composition I,452605,Dr. Denise Comer,4.6,1227,76.36,14.83,3.74,1.38,3.66,10.0,Beginner,,98.0
+Career 911: Your Future Job in Medicine and Healthcare,28687,Dr. Melissa A. Simon,4.5,163,71.77,15.33,7.97,1.22,3.68,9.0,,19.0,96.0
+Introduction to Self-Driving Cars,150578,Steven Waslander,4.7,2882,81.21,14.93,1.87,0.45,1.52,8.0,Advanced,,96.0
+Corporate & Commercial Law I: Contracts & Employment Law,56782,Michael R Fricke,4.8,1236,85.95,11.46,1.21,0.32,1.04,5.0,Intermediate,,98.0
+Blockchain Basics,261621,Bina Ramamurthy,4.6,7668,70.41,22.23,4.66,1.08,1.6,4.0,Beginner,,95.0
+Foundations of Business Strategy,157062,Michael Lenox,4.8,3120,82.66,14.58,1.73,0.38,0.64,4.0,Beginner,,97.0
+IntroduÃ§Ã£o Ã  CiÃªncia da ComputaÃ§Ã£o com Python Parte 1,256194,Fabio Kon,4.9,7325,91.38,7.44,0.74,0.2,0.21,9.0,Beginner,,99.0
+Foundations for Big Data Analysis with SQL,50881,Glynn Durham,4.7,1087,80.86,15.82,1.56,0.73,1.01,5.0,Beginner,,96.0
+"Innovation Through Design: Think, Make, Break, Repeat",166976,Martin Tomitsch,4.7,2131,79.28,17.57,1.87,0.37,0.89,5.0,Beginner,,98.0
+Perfect Tenses and Modals,211863,Tamy Chapman,4.8,3901,83.93,12.73,1.97,0.81,0.53,5.0,Intermediate,,98.0
+Getting Started with Azure,32808,Kenny Mobley,4.4,501,61.87,24.35,6.18,2.79,4.79,6.0,Beginner,,94.0
+Moralities of Everyday Life,137826,Paul Bloom,4.8,3345,86.42,12.01,1.07,0.23,0.23,7.0,,24.0,97.0
+RevisÃ£o SistemÃ¡tica e Meta-anÃ¡lise,55233,Tais Freire Galvao,4.9,2846,93.89,5.75,0.28,0.07,0.0,6.0,Intermediate,,99.0
+Understanding child development: from synapse to society,84624,dr. Jorg Huijding,4.6,353,77.62,15.01,3.11,0.84,3.39,6.0,Beginner,,97.0
+Aprendiendo a aprender: Poderosas herramientas mentales con las que podrÃ¡s dominar temas difÃ­ciles (Learning How to Learn),391646,Dr. Barbara Oakley,4.9,11093,90.67,8.03,0.85,0.1,0.32,5.0,Beginner,,99.0
+Building Batch Data Pipelines on Google Cloud,47474,Google Cloud Training,4.5,1699,65.92,25.72,6.06,1.47,0.82,6.0,Intermediate,,85.0
+Financial Planning for Young Adults,157658,"Nicholas Paulson, Ph.D.",4.6,1352,70.11,21.81,4.58,1.55,1.92,9.0,Beginner,,97.0
+Quantitative Methods,146426,Annemarie Zand Scholten,4.7,2309,81.28,14.64,2.33,0.73,0.99,9.0,,29.0,98.0
+"Introduction to Self-Determination Theory: An approach to motivation, development and wellness",70089,Richard Ryan,4.8,505,88.11,7.72,2.17,1.38,0.59,5.0,Beginner,,98.0
+The Technology of Music Production,71394,Loudon Stearns,4.8,1064,85.91,10.89,1.87,0.75,0.56,7.0,Beginner,,98.0
+Code Yourself! An Introduction to Programming,427291,Dr Areti Manataki,4.7,3431,80.37,14.82,2.15,0.81,1.83,5.0,Beginner,,98.0
+Success,68422,Richard Shell,4.8,1191,85.64,10.49,2.43,0.67,0.75,4.0,Beginner,,98.0
+Chemicals and Health,75799,"Dr. Megan Weil Latshaw, PhD",4.7,1347,77.55,18.96,2.29,0.59,0.59,6.0,Beginner,,98.0
+Improving your statistical inferences,76398,Daniel Lakens,4.9,791,88.49,9.86,1.13,0.25,0.25,8.0,Intermediate,,96.0
+Fundamentals of Finance,107394,Jessica Wachter,3.9,1013,50.59,20.61,11.73,6.5,10.55,5.0,Beginner,,86.0
+How Google does Machine Learning,133126,Google Cloud Training,4.6,7279,68.96,23.68,5.25,1.15,0.93,8.0,Beginner,,92.0
+Object-Oriented Design,135640,Kenny Wong,4.7,2347,76.04,18.55,3.53,0.68,1.19,4.0,Intermediate,,93.0
+Introduction to Intellectual Property,40857,R. Polk Wagner,4.8,997,83.98,13.61,1.5,0.5,0.4,4.0,Beginner,,97.0
+Cost and Economics in Pricing Strategy,34539,Jean Manuel Izaret,4.8,668,83.58,13.13,1.94,0.29,1.04,4.0,Beginner,,93.0
+Write A Feature Length Screenplay For Film Or Television,85301,David Wheeler,4.6,257,77.82,13.61,2.72,2.33,3.5,20.0,Beginner,,96.0
+Marketing Gerencial,82920,Pedro Hidalgo,4.8,2210,81.6,14.41,2.84,0.58,0.54,3.0,Intermediate,,98.0
+Corporate Finance Essentials,89199,Javier Estrada,4.8,2487,84.53,13.82,1.2,0.2,0.24,8.0,,13.0,98.0
+Learn without limits,77,,,0,,,,,,,,,
+"Anatomy of the Chest, Neck, Abdomen, and Pelvis",105582,Charles Duncan,4.8,1840,85.76,12.65,1.14,0.21,0.21,9.0,Intermediate,,96.0
+Introduction to CSS3,224954,"Colleen van Lent, Ph.D.",4.8,9590,82.42,15.2,1.84,0.17,0.34,5.0,Beginner,,97.0
+Applied Data Science Capstone,179669,Yan Luo,4.7,7238,80.44,13.97,3.05,1.11,1.4,5.0,Intermediate,,89.0
+Introduction aux Droits de lâHomme,68477,Maya Hertig Randall,4.9,1677,88.13,10.49,0.95,0.05,0.35,8.0,,17.0,99.0
+"Programming Languages, Part A",201525,Dan  Grossman,4.9,1888,93.17,5.44,0.15,0.31,0.89,6.0,Intermediate,,97.0
+Leadership in 21st Century Organizations,92426,Robert Austin,4.8,1268,82.24,13.97,2.13,0.71,0.94,19.0,,38.0,94.0
+Software Processes and Agile Practices,112102,Kenny Wong,4.7,5269,76.92,19.69,2.42,0.56,0.37,4.0,,8.0,96.0
+DevOps Culture and Mindset,47544,Courtney Kissler,4.7,577,80.24,16.29,2.07,0.17,1.21,4.0,Intermediate,,97.0
+Introduction to Statistics & Data Analysis in Public Health,57177,Alex Bottle,4.7,1493,77.64,18.2,3.21,0.73,0.2,4.0,Beginner,,95.0
+Discrete Optimization,74591,Professor Pascal Van Hentenryck,4.8,769,89.48,7.79,1.16,0.12,1.42,8.0,Intermediate,,96.0
+High Stakes Leadership: Leading in Times of Crisis,28019,Mike Barger,4.7,432,80.64,14.05,2.07,1.38,1.84,4.0,Intermediate,,98.0
+Essential Epidemiologic Tools for Public Health Practice,56908,"Aruna Chandran, MD, MPH",4.7,3007,75.34,20.43,3.02,0.73,0.46,4.0,Beginner,,98.0
+Epigenetic Control of Gene Expression,50792,Dr. Marnie Blewitt,4.8,817,86.93,10.86,1.46,0.12,0.61,7.0,,17.0,97.0
+"Recruiting, Hiring, and Onboarding Employees",158409,Amy Simon,4.7,4542,78.98,16.59,2.83,0.92,0.66,4.0,,20.0,96.0
+Ancient Philosophy: Plato & His Predecessors,121611,Susan SauvÃ© Meyer,4.8,1555,83.6,13.44,2.05,0.32,0.57,4.0,,84.0,98.0
+Becoming a changemaker: Introduction to Social Innovation,116522,FranÃ§ois Bonnici,4.8,1573,85.26,11.11,2.22,0.31,1.07,6.0,Beginner,,98.0
+Spanish for Successful Communication in Healthcare Settings,61121,Maria Victoria Abad Rabat,4.7,315,81.96,13.6,1.58,0.31,2.53,5.0,Intermediate,,94.0
+Leading transformations: Manage change,62629,Professor Richard Badham,4.7,1530,79.09,16.65,2.93,0.45,0.84,6.0,Beginner,,97.0
+Introduction to Systems Engineering,79010,Kumudu Amarawardhana,4.7,803,77.7,17.55,2.61,0.74,1.36,9.0,,18.0,95.0
+Digital Marketing Analytics in Theory,137076,Kevin Hartman,4.5,4792,67.02,24.21,6.34,1.44,0.98,4.0,Beginner,,97.0
+Data Visualization and Communication with Tableau,223959,Daniel Egger,4.7,3200,74.92,19.75,3.09,1.0,1.21,6.0,,24.0,95.0
+Bayesian Statistics: Techniques and Models,56514,Matthew Heiner,4.8,487,83.16,12.73,2.05,1.02,1.02,5.0,Intermediate,,94.0
+Human Rights for Open Societies,49331,Janneke Gerards,4.8,589,84.38,11.71,2.37,0.5,1.01,6.0,Beginner,,97.0
+Introduction to Computers and Office Productivity Software,91555,Kenneth W T Leung,4.7,1738,74.68,19.67,3.56,0.86,1.2,8.0,,15.0,96.0
+Intercultural Management,21048,Kerstin Alfes,4.6,444,73.25,19.55,4.94,1.12,1.12,6.0,Beginner,,92.0
+Get Interactive: Practical Teaching with Technology,64124,Professor Eileen Kennedy,4.8,1596,87.33,9.74,1.73,0.31,0.86,3.0,Beginner,,98.0
+International Law In Action: Investigating and Prosecuting International Crimes,45539,Carsten Stahn,4.8,693,87.05,11.22,1.29,0.14,0.28,5.0,,16.0,98.0
+Global Financial Markets and Instruments,121684,Arzu Ozoguz,4.5,2157,68.89,22.39,4.49,2.22,1.99,4.0,,19.0,90.0
+Write Your First Novel,189346,David Wheeler,4.3,356,67.41,14.04,6.17,3.37,8.98,26.0,Beginner,,96.0
+DÃ©veloppement psychologique de l'enfant,44581,Edouard Gentaz,4.9,754,88.34,10.33,1.05,0.13,0.13,7.0,Beginner,,98.0
+Songwriting: Writing the Lyrics,134761,Pat Pattison,4.8,887,85.13,10.81,1.46,1.01,1.57,5.0,Beginner,,97.0
+"Applied Plotting, Charting & Data Representation in Python",202716,Christopher Brooks,4.5,6259,67.03,23.23,6.24,1.98,1.5,4.0,Intermediate,,93.0
+Systems Thinking In Public Health,58980,"David Bishai, MD, PhD",4.6,923,70.84,23.54,4.21,0.64,0.75,4.0,,14.0,97.0
+Excel Skills for Business: Advanced,224765,Nicky Bull,4.7,5971,80.82,14.37,3.32,0.63,0.83,7.0,Intermediate,,95.0
+Community Organizing for Social Justice,16536,Barry Checkoway,4.8,320,81.61,14.01,3.11,0.62,0.62,6.0,Beginner,,99.0
+Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course),67983,Shimon Schocken,4.9,522,94.44,4.59,0.38,0.19,0.38,9.0,,89.0,97.0
+The Global Financial Crisis,129717,Andrew Metrick,4.8,2313,84.57,13.13,1.59,0.38,0.3,13.0,,64.0,97.0
+Renewable Energy and Green Building Entrepreneurship,92140,Chris Wedding,4.7,2788,75.38,20.02,3.26,0.57,0.75,5.0,Beginner,,98.0
+The Cycle: Management of Successful Arts and Cultural Organizations,27286,Michael M. Kaiser,4.8,712,86.01,11.32,2.51,0.13,0.0,6.0,Beginner,,98.0
+Privacy Law and Data Protection,31401,Lauren Steinfeld,4.8,778,83.35,12.8,2.3,0.76,0.76,4.0,,12.0,96.0
+Digital Business Models,49309,Andreas Constantinou,4.6,554,72.12,19.6,4.85,1.61,1.79,5.0,Beginner,,94.0
+"Everyday Excel, Part 2",50153,Charlie Nuttelman,4.7,554,83.99,11.33,2.33,0.0,2.33,5.0,Intermediate,,94.0
+Reliable Google Cloud Infrastructure: Design and Process,117513,Google Cloud Training,4.7,7217,78.87,17.66,2.45,0.6,0.4,10.0,Advanced,,93.0
+Introduction to Computer Programming,83499,Dr Edward Anstead,4.1,895,59.66,16.75,7.7,2.9,12.96,3.0,Beginner,,91.0
+Sustainable Tourism â promoting environmental public health,40500,Flemming Konradsen,4.7,1331,74.83,19.53,3.75,0.97,0.9,3.0,Beginner,,96.0
+Social Impact Strategy: Tools for Entrepreneurs and Innovators,53517,Peter  Frumkin,4.8,1392,81.77,16.35,1.57,0.14,0.14,4.0,Beginner,,98.0
+C for Everyone: Programming Fundamentals,313016,Ira Pohl,4.5,6595,68.24,21.23,5.33,1.8,3.38,6.0,Beginner,,93.0
+Introduction to Structured Query Language (SQL),239558,Charles Russell Severance,4.8,5428,80.76,15.79,2.02,0.55,0.86,4.0,Intermediate,,96.0
+Social and Economic Networks:  Models and Analysis,72976,Matthew O. Jackson,4.8,751,84.95,12.64,1.46,0.13,0.79,8.0,Advanced,,97.0
+The Truth About Cats and Dogs,79257,Hayley  Walters,4.8,2366,82.65,14.0,2.61,0.37,0.33,5.0,,16.0,99.0
+Sports and Society,35236,Orin Starn,4.8,1284,85.12,13.16,1.24,0.23,0.23,7.0,,12.0,98.0
+Effective Compliance Programs,21515,Lauren Steinfeld,4.9,773,91.36,7.6,0.51,0.12,0.38,4.0,,11.0,96.0
+Transformation of the Global Food System,27199,Katherine Richardson,4.8,977,83.12,14.51,1.84,0.2,0.3,6.0,Beginner,,98.0
+Web Application Technologies and Django,106508,Charles Russell Severance,4.7,1900,77.22,16.51,3.31,1.2,1.73,5.0,Intermediate,,97.0
+Curanderismo: Traditional Healing Using Plants,27935,Eliseo (Cheo) Torres,4.7,224,78.57,15.17,2.67,0.44,3.12,5.0,Beginner,,97.0
+Applied Machine Learning in Python,315337,Kevyn Collins-Thompson,4.6,8538,71.69,20.95,4.88,1.18,1.28,4.0,Intermediate,,92.0
+Troubleshooting and Debugging Techniques,136959,Google Career Certificates,4.6,3005,75.63,16.58,4.61,1.62,1.52,4.0,Beginner,,95.0
+Introduction to C# Programming and Unity,124816,"Dr. Tim ""Dr. T"" Chamillard",4.7,2420,78.01,15.22,3.25,0.94,2.55,4.0,Beginner,,94.0
+"CorrecciÃ³n, estilo y  variaciones de la lengua espaÃ±ola",124843,Santiago Alcoba,4.7,1555,73.6,20.42,4.17,1.02,0.77,6.0,Beginner,,98.0
+Les Fondamentaux de la NÃ©gociation,41839,AurÃ©lien Colson,4.7,413,79.71,15.7,3.14,0.48,0.96,5.0,Beginner,,96.0
+Introduction to Clinical Data,26909,Nigam Shah,4.6,410,73.9,19.26,4.87,0.97,0.97,8.0,Beginner,,97.0
+The Science of Success: What Researchers Know that You Should Know,190508,Paula Caproni,4.8,2811,83.68,13.18,1.77,0.31,1.03,7.0,Beginner,,98.0
+Finance for Non-Financial Managers,31551,Thomas Smith,4.4,428,61.16,24.18,9.53,3.48,1.62,9.0,Intermediate,,94.0
+Getting Started With Music Theory,114238,Bruce Taggart,4.5,750,69.46,18.93,4.4,3.33,3.86,4.0,Beginner,,92.0
+Digital Marketing Analytics in Practice,128737,Kevin Hartman,4.5,3306,64.86,25.03,6.62,1.87,1.6,4.0,Beginner,,97.0
+The Horse Course: Introduction to Basic Care and Management,50913,"Chris J. Mortensen, Ph.D.",4.9,967,90.27,7.65,1.44,0.2,0.41,6.0,,18.0,97.0
+Verb Tenses and Passives,139550,Tamy Chapman,4.8,1966,84.74,11.39,1.52,0.86,1.47,4.0,Intermediate,,98.0
+GestiÃ³n de organizaciones efectivas,75536,"Julio PertuzÃ©, PhD",4.8,2350,80.32,16.19,2.71,0.16,0.59,7.0,,7.0,98.0
+Introduction to Big Data,330519,Ilkay Altintas,4.6,10928,70.09,23.63,4.18,1.01,1.06,6.0,,18.0,96.0
+RÃ©daction de contrats,27116,Sylvain Marchand,4.8,836,86.84,11.12,1.67,0.0,0.35,6.0,,15.0,99.0
+Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,81567,Professor Michela Massimi,4.6,1416,71.08,21.08,6.34,1.12,0.35,5.0,,10.0,96.0
+Schizophrenia,89590,Matt Kurtz,4.8,2364,80.32,17.14,1.73,0.59,0.21,5.0,Intermediate,,99.0
+Ecology: Ecosystem Dynamics and Conservation,71142,Ana Luz Porzecanski,4.8,3312,86.33,12.19,1.05,0.15,0.27,5.0,Intermediate,,99.0
+Game Design and Development with Unity 2020 Specialization,23851,Brian Winn,4.7,522,,,,,,,Beginner,,2.0
+Practical Time Series Analysis,93774,Tural Sadigov,4.6,1708,69.23,23.85,4.97,1.11,0.81,6.0,Intermediate,,90.0
+VLSI CAD Part I: Logic,57806,Rob A. Rutenbar,4.7,550,74.18,20.72,2.9,0.9,1.27,6.0,Intermediate,,95.0
+Getting Started with Google Kubernetes Engine,119600,Google Cloud Training,4.5,3674,65.49,26.01,5.57,1.27,1.63,6.0,Intermediate,,87.0
+Exploring âand âPreparing âyour âData with BigQuery,72127,Google Cloud Training,4.7,3644,72.57,23.03,3.29,0.68,0.41,7.0,Beginner,,92.0
+Six Sigma and the Organization (Advanced),93798,"David Cook, PhD",4.7,3577,77.16,18.52,3.04,0.53,0.72,5.0,Intermediate,,95.0
+Social Work Practice: Advocating Social Justice and Change,27846,Barbara Hiltz,4.8,401,83.37,14.14,1.73,0.0,0.74,4.0,Beginner,,98.0
+Introduction to Machine Learning,222567,Lawrence Carin,4.7,3682,74.74,20.47,2.9,0.67,1.19,6.0,Intermediate,,97.0
+Entrepreneurship 2: Launching your Start-Up,61046,Kartik Hosanagar,4.8,1981,82.74,14.88,2.11,0.25,0.0,4.0,,8.0,96.0
+Nanotechnology: A Makerâs Course,69554,Nan M. Jokerst,4.8,3005,84.26,14.1,1.33,0.16,0.13,9.0,,26.0,98.0
+Creative Problem Solving,257229,"Brad Hokanson, PhD",4.4,2384,66.4,20.05,6.37,2.47,4.69,4.0,,13.0,97.0
+"Sleep: Neurobiology, Medicine, and Society",72625,"Ralph Lydic, Ph.D.",4.8,801,86.15,11.09,1.99,0.62,0.12,12.0,Beginner,,98.0
+COVID-19: What You Need to Know,106959,"Rishi Desai, MD, MPH",4.8,7035,84.31,13.42,1.53,0.27,0.45,1.0,Beginner,,98.0
+Classical Sociological Theory,127780,Bart van Heerikhuizen,4.9,2948,87.87,10.46,1.18,0.27,0.2,9.0,,12.0,99.0
+Electric Industry Operations and Markets,51893,Lincoln Pratson,4.8,1416,83.35,13.75,1.83,0.28,0.77,2.0,Beginner,,98.0
+Preparing for your Professional Cloud Architect Journey,66495,Google Cloud Training,4.7,1359,77.57,15.8,3.67,1.32,1.61,7.0,Advanced,,82.0
+Effective Business Presentations with Powerpoint,108988,Alex Mannella,4.5,1075,71.37,19.05,4.83,1.85,2.88,4.0,Beginner,,95.0
+More Introduction to Financial Accounting,62276,Brian J Bushee,4.8,535,88.24,8.02,1.67,0.74,1.3,6.0,,16.0,94.0
+Cryptocurrency and Blockchain: An Introduction to Digital Currencies,57990,Jessica Wachter,4.6,1490,72.97,20.79,4.35,1.07,0.8,4.0,,4.0,95.0
+Dairy Production and Management,61184,Alexander N. Hristov,4.8,1449,87.17,11.31,0.96,0.06,0.48,8.0,,75.0,98.0
+Think Again I: How to Understand Arguments,319618,Dr. Walter  Sinnott-Armstrong,4.6,2987,74.62,18.88,3.95,0.93,1.6,5.0,Beginner,,97.0
+Developing Your Musicianship,80226,"George W. Russell, Jr.",4.8,1282,87.76,9.97,1.16,0.46,0.62,7.0,,16.0,98.0
+Introduction to Operations Management,149251,Christian Terwiesch,4.4,2739,67.77,19.16,6.45,2.81,3.79,4.0,Beginner,,89.0
+The Oral Cavity: Portal to Health and Disease,29391,Dr. Thomas P. Sollecito,4.9,793,88.77,10.21,1.0,0.0,0.0,9.0,Intermediate,,97.0
+Preparing for Your Associate Cloud Engineer Journey,80076,Google Cloud Training,4.7,3100,77.45,17.54,3.28,0.74,0.96,7.0,Intermediate,,96.0
+Fundamental Neuroscience for Neuroimaging,75960,Arnold Bakker,4.7,2226,73.83,20.64,4.21,0.67,0.62,4.0,Beginner,,96.0
+European Business Law: Understanding the Fundamentals,48240,Hans Henrik Lidgard,4.8,1301,82.41,14.97,1.53,0.61,0.46,6.0,Beginner,,98.0
+Teach English Now! Teaching Language Online,69961,Emilia Gracia,4.7,678,79.49,14.01,4.12,0.73,1.62,7.0,Intermediate,,98.0
+Music Business Foundations,64117,"John P. Kellogg, Esq.",4.9,2630,88.45,9.98,1.13,0.11,0.3,4.0,,11.0,98.0
+Introduction to Business Analytics: Communicating with Data,50458,Kevin Hartman,4.6,622,72.5,20.09,4.5,1.44,1.44,4.0,Beginner,,96.0
+Security & Safety Challenges in a Globalized World,31576,Bibi  van den Berg,4.8,447,81.47,14.95,2.0,0.66,0.89,7.0,Beginner,,98.0
+Machine Learning Foundations: A Case Study Approach,398358,Emily Fox,4.6,13499,72.41,20.79,3.74,1.12,1.92,7.0,,18.0,93.0
+Accounting Analytics,114828,Brian J Bushee,4.5,3003,65.13,22.74,7.59,2.63,1.89,4.0,,9.0,92.0
+Roman Architecture,76072,Diana E.E. Kleiner,4.9,675,92.89,5.76,0.59,0.44,0.29,23.0,Beginner,,97.0
+Research Data Management and Sharing,39908,Helen Tibbo,4.7,710,74.82,21.37,2.53,0.84,0.42,5.0,,13.0,97.0
+Introduction to Genomic Technologies,112464,"Steven Salzberg, PhD",4.6,4699,66.09,27.22,5.14,0.97,0.55,4.0,,6.0,96.0
+Strategic Management,131613,Robert Austin,4.7,4425,79.03,18.09,2.03,0.38,0.45,5.0,,10.0,96.0
+"Cybersecurity Compliance Framework, Standards & Regulations",111237,IBM Skills Network Team,4.7,3325,75.12,18.66,4.05,1.17,0.99,5.0,Intermediate,,95.0
+Legal Tech & Startups,22014,Marti Manent,4.5,239,66.25,23.33,6.66,1.66,2.08,4.0,Intermediate,,92.0
+Introduction to Chemistry:  Reactions and Ratios,127867,Prof. Dorian A. Canelas,4.7,1274,82.9,12.39,1.72,1.01,1.96,7.0,Beginner,,94.0
+The Science of Stem Cells,66635,Dr. Zehra Dincer,4.7,3103,77.69,19.78,2.03,0.35,0.12,5.0,Intermediate,,98.0
+The Business of Product Management I,34843,Nancy Wang,4.5,787,67.38,21.7,5.96,2.66,2.28,4.0,Beginner,,88.0
+Positive Psychology: Resilience Skills,87396,"Karen Reivich, Ph.D.",4.9,2196,90.89,7.74,0.77,0.27,0.31,4.0,Beginner,,97.0
+AI for Medical Prognosis,29037,Pranav Rajpurkar,4.7,783,79.18,15.7,3.06,1.4,0.63,4.0,Intermediate,,97.0
+Antibiotic Stewardship,63413,"Stan Deresinski, MD",4.7,695,80.6,12.35,3.16,0.71,3.16,6.0,Advanced,,99.0
+UX / UI: Fundamentos para o design de interface,65926,Artur Vilas Boas,4.5,780,63.89,25.99,6.78,1.53,1.79,6.0,Beginner,,96.0
+EMT Foundations,52271,"Angela Wright, MD",4.8,1084,84.42,11.88,2.67,0.46,0.55,5.0,Beginner,,96.0
+"Penetration Testing, Threat Hunting, and Cryptography",97590,Dr. Manish Kumar,4.6,2418,73.78,18.78,4.33,1.61,1.48,6.0,Intermediate,,92.0
+Database Management Essentials,200916,Michael Mannino,4.6,3335,70.59,22.03,3.71,1.43,2.21,12.0,Intermediate,,95.0
+Advertising and Society,36685,Professor William M. O'Barr,4.8,949,79.45,17.38,2.42,0.31,0.42,7.0,,11.0,97.0
+Everyday Chinese Medicine,72572,Prof. Vincent CHUNG,4.7,1046,78.55,17.06,3.05,0.85,0.47,5.0,Intermediate,,98.0
+Fundamentals of Machine Learning for Healthcare,29311,Matthew Lungren,4.8,528,84.09,13.63,1.7,0.56,0.0,8.0,Beginner,,97.0
+Magic in the Middle Ages,136484,Godefroid de CallataÃ¿ - University of Louvain,4.6,1717,67.96,24.59,4.76,1.51,1.16,5.0,Beginner,,98.0
+Challenging Forensic Science: How Science Should Speak to Court,19518,Alex Biedermann,4.9,493,88.03,9.93,1.62,0.2,0.2,5.0,Beginner,,98.0
+Exploring Renewable Energy Schemes,30671,Jorge Santiago-Aviles,4.7,632,79.46,17.37,1.89,0.63,0.63,6.0,Beginner,,98.0
+Paleontology: Theropod Dinosaurs and the Origin of Birds,31599,"Philip John Currie, Ph.D",4.9,1533,91.08,7.81,0.97,0.06,0.06,5.0,,8.0,97.0
+Corporate Strategy,112925,Bart Vanneste,4.8,2626,84.51,13.66,1.25,0.26,0.3,4.0,Beginner,,98.0
+Getting Started with Essay Writing,246605,Tamy Chapman,4.7,3228,77.78,16.98,3.4,1.02,0.8,5.0,,19.0,96.0
+ActualizaciÃ³n en el manejo del paciente con diabetes mellitus tipo 2,57248,JosÃ© Antonio MÃ¡rquez LÃ³pez,4.8,1401,87.66,10.55,1.06,0.28,0.42,4.0,,11.0,96.0
+Mastering Final Cut Pro,54010,Jason Cox with Nick Harauz,4.4,224,70.08,18.3,3.57,2.23,5.8,8.0,Beginner,,89.0
+Removing Barriers to Change,28389,Jonah Berger,4.9,455,88.37,9.64,1.53,0.43,0.0,4.0,Beginner,,99.0
+Tricky American English Pronunciation,253937,Tamy Chapman,4.7,2324,82.52,12.35,2.71,0.77,1.63,5.0,Beginner,,98.0
+Managing an Agile Team,67425,Alex Cowan,4.7,1337,77.37,18.07,2.98,0.74,0.82,4.0,,11.0,94.0
+International Law in Action: A Guide to the International Courts and Tribunals in The Hague,57990,Larissa van den Herik,4.8,1168,82.06,15.2,1.87,0.42,0.42,5.0,,17.0,98.0
+"Competencias Laborales: Perfiles, EvaluaciÃ³n y CapacitaciÃ³n.",45517,Oscar Jerez,4.4,412,67.31,19.12,5.56,3.14,4.84,10.0,Intermediate,,94.0
+Getting started with TensorFlow 2,37828,Dr Kevin Webster,4.9,572,90.9,7.51,0.52,0.17,0.87,5.0,Intermediate,,96.0
