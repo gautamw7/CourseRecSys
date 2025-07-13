@@ -12,10 +12,11 @@ warnings.filterwarnings("ignore")
 faiss.omp_set_num_threads(1)  # Set FAISS to use only one thread
 
 def getConnection():
-    username = "Gautamw7"
-    password = "KeepYourHeadDownAndWork"
+    username = "Username" # Replace with your MongoDB username
+    password = "password" # Replace with your MongoDB password
 
-    uri = "mongodb+srv://Gautamw7:KeepYourHeadDownAndWork@recsyscluster.b0nw9v5.mongodb.net/?retryWrites=true&w=majority"
+    # Replace with your MongoDB connection string
+    uri = "mongodb+srv://Username:password@cluster.b0nw9v5.mongodb.net/?retryWrites=true&w=majority"
 
     client = MongoClient(uri, server_api=ServerApi('1'))
 
