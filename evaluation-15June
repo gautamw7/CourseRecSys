@@ -1,0 +1,84 @@
+Avergae Triplet Accuracy of 5 runs - 81.2698%
+
+Precision for L2 for the inital data test: 96.9676%
+Accuracy for L2 for the inital data test: 96.9676%
+Precision for Cosine Similarity for the inital data test: 96.9676%
+Accuracy for Cosine Similarity for the inital data test: 96.9676%
+
+Cosine similarities for the query 'basic python':
+Course ID: coursela_0016, Title: Python Programming Essentials, Cosine Similarity: 0.7247
+Course ID: coursela_1871, Title: Python Basics, Cosine Similarity: 0.7240
+Course ID: coursela_0734, Title: Create Your First Python Program, Cosine Similarity: 0.7220
+Course ID: coursela_0460, Title: Programming for Everybody (Getting Started with Python), Cosine Similarity: 0.7052
+Course ID: coursela_1000, Title: Crash Course on Python, Cosine Similarity: 0.6971
+Course ID: coursela_0740, Title: Python Data Representations, Cosine Similarity: 0.6781
+Course ID: coursela_1211, Title: Concepts in Python: Loops, Functions and Returns, Cosine Similarity: 0.6648
+Course ID: coursela_1656, Title: Learn to Program: The Fundamentals, Cosine Similarity: 0.6580
+Course ID: coursela_0548, Title: Python Programming: A Concise Introduction, Cosine Similarity: 0.6393
+Course ID: coursela_2505, Title: Using Python to Access Web Data, Cosine Similarity: 0.6336
+
+
+Cosine similarities for the query 'I’m looking for a beginner-friendly course that teaches Python from scratch.':
+Course ID: coursela_0734, Title: Create Your First Python Program, Cosine Similarity: 0.6712
+Course ID: coursela_1000, Title: Crash Course on Python, Cosine Similarity: 0.6602
+Course ID: coursela_0460, Title: Programming for Everybody (Getting Started with Python), Cosine Similarity: 0.6167
+Course ID: coursela_1656, Title: Learn to Program: The Fundamentals, Cosine Similarity: 0.6081
+Course ID: coursela_0016, Title: Python Programming Essentials, Cosine Similarity: 0.5888
+Course ID: coursela_3159, Title: Create Your First Web App with Python and Flask, Cosine Similarity: 0.5727
+Course ID: coursela_1871, Title: Python Basics, Cosine Similarity: 0.5683
+Course ID: coursela_0548, Title: Python Programming: A Concise Introduction, Cosine Similarity: 0.5659
+Course ID: coursela_1559, Title: Create Your First Game with Python, Cosine Similarity: 0.5497
+Course ID: coursela_2039, Title: Python for Data Science and AI, Cosine Similarity: 0.5481
+
+
+Cosine similarities for the query 'Mechanics':
+Course ID: coursela_0333, Title: Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets, Cosine Similarity: 0.5481
+Course ID: coursela_0620, Title: Physics 101 - Forces and Kinematics, Cosine Similarity: 0.5319
+Course ID: coursela_1697, Title: Introduction to Engineering Mechanics, Cosine Similarity: 0.5125
+Course ID: coursela_1261, Title: Modeling and Design for Mechanical Engineers with Autodesk Fusion 360, Cosine Similarity: 0.5112
+Course ID: coursela_1106, Title: How Things Work: An Introduction to Physics, Cosine Similarity: 0.5109
+Course ID: coursela_1967, Title: Machine Design Part I, Cosine Similarity: 0.4881
+Course ID: coursela_0744, Title: Advanced Engineering Systems in Motion: Dynamics of Three Dimensional (3D) Motion, Cosine Similarity: 0.4876
+Course ID: coursela_3095, Title: Mastering Statics, Cosine Similarity: 0.4764
+Course ID: coursela_0809, Title: CAM and Design Manufacturing for Mechanical Engineers with Autodesk Fusion 360, Cosine Similarity: 0.4728
+Course ID: coursela_2950, Title: Engineering Systems in Motion: Dynamics of Particles and Bodies in 2D Motion, Cosine Similarity: 0.4670
+
+
+Cosine similarities for the query 'I want a course that explains the basic physics and mechanical principles behind Formula 1 racing for a new fan.':
+Course ID: coursela_3520, Title: Rigid Body Dynamics, Cosine Similarity: 0.4937
+Course ID: coursela_2948, Title: Particle Dynamics, Cosine Similarity: 0.4902
+Course ID: coursela_3095, Title: Mastering Statics, Cosine Similarity: 0.4537
+Course ID: coursela_0333, Title: Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets, Cosine Similarity: 0.4480
+Course ID: coursela_2254, Title: Kinetics: Studying Spacecraft Motion, Cosine Similarity: 0.4375
+Course ID: coursela_1442, Title: Vector Calculus for Engineers, Cosine Similarity: 0.4362
+Course ID: coursela_0620, Title: Physics 101 - Forces and Kinematics, Cosine Similarity: 0.4297
+Course ID: coursela_0769, Title: Sports and Building Aerodynamics, Cosine Similarity: 0.4280
+Course ID: coursela_0453, Title: Differential Equations for Engineers, Cosine Similarity: 0.4272
+Course ID: coursela_3433, Title: Introduction to Self-Driving Cars, Cosine Similarity: 0.4194
+
+
+Cosine similarities for the query 'Music':
+Course ID: coursela_3514, Title: The Importance and Power of Music in our Society, Cosine Similarity: 0.6178
+Course ID: coursela_0900, Title: Music and Social Action, Cosine Similarity: 0.5177
+Course ID: coursela_1992, Title: Teaching Popular Music in the Classroom, Cosine Similarity: 0.5175
+Course ID: coursela_0286, Title: The Place of Music in 21st Century Education, Cosine Similarity: 0.5139
+Course ID: coursela_3183, Title: Music as Biology: What We Like to Hear and Why, Cosine Similarity: 0.4935
+Course ID: coursela_1450, Title: The Music of the Beatles, Cosine Similarity: 0.4909
+Course ID: coursela_1186, Title: Understanding the Music Business: What is Music Worth?, Cosine Similarity: 0.4902
+Course ID: coursela_0538, Title: Building Your Career in Music: Developing A Brand and Funding Your Music, Cosine Similarity: 0.4788
+Course ID: coursela_0967, Title: Building Your Career in Music: Developing A Brand and Funding Your Music, Cosine Similarity: 0.4788
+Course ID: coursela_0137, Title: History of Rock, Part Two, Cosine Similarity: 0.4740
+
+
+Cosine similarities for the query 'I want a course that explains the basic music theory and instruments behind Orchesta as a new beginner musican':
+Course ID: coursela_1246, Title: Fundamentals of Music Theory, Cosine Similarity: 0.5394
+Course ID: coursela_1488, Title: Getting Started With Music Theory, Cosine Similarity: 0.5096
+Course ID: coursela_0598, Title: Approaching Music Theory: Melodic Forms and Simple Harmony, Cosine Similarity: 0.4768
+Course ID: coursela_2251, Title: Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics, Cosine Similarity: 0.4710
+Course ID: coursela_1758, Title: Guitar for Beginners, Cosine Similarity: 0.4390
+Course ID: coursela_1759, Title: Guitar for Beginners, Cosine Similarity: 0.4390
+Course ID: coursela_3427, Title: Creating Sounds for Electronic Music, Cosine Similarity: 0.4325
+Course ID: coursela_2592, Title: Intro to Acoustics (Part 1), Cosine Similarity: 0.4236
+Course ID: coursela_1066, Title: Learning How to Learn: Powerful mental tools to help you master tough subjects, Cosine Similarity: 0.4185
+Course ID: coursela_0731, Title: Learning How To Learn for Youth, Cosine Similarity: 0.4142
+
