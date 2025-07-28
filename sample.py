@@ -1,4 +1,4 @@
-# Using only the query
+# Using only the Qdrant working great !!! :) 
 from sentence_transformers import SentenceTransformer
 from keybert import KeyBERT
 from qdrant_client import QdrantClient
@@ -6,8 +6,8 @@ from qdrant_client.models import Filter, FieldCondition, MatchValue
 from qdrant_client.models import PayloadSchemaType
 
 qdrant_client = QdrantClient(
-    url="https://ed779a30-c6e7-4c82-9aba-d4f31c6b789e.eu-central-1-0.aws.cloud.qdrant.io:6333",
-    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.rfTON-MO3MX_U2hr0Oz0fbUEACEZMB3cLwnKPuiz_dc",
+    url="url here",  # Replace with your actual Qdrant URL
+    api_key="api_key_here",  # Replace with your actual API key
 )
 
 model = SentenceTransformer('all-mpnet-base-v2')
