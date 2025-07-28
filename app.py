@@ -1,153 +1,148 @@
-import os
 import streamlit as st
 from sentence_transformers import SentenceTransformer
-import faiss
-import numpy as np
-from pymongo.mongo_client import MongoClient
-from pymongo.server_api import ServerApi
 import warnings
+from keybert import KeyBERT
+from qdrant_client import QdrantClient
+from qdrant_client.http import models
+from qdrant_client.models import Filter, FieldCondition, MatchValue
+from qdrant_client.models import PayloadSchemaType
+import time
+import os
+os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
 warnings.filterwarnings("ignore")
-# Suppress warnings from faiss
-faiss.omp_set_num_threads(1)  # Set FAISS to use only one thread
 
+# Function to get Qdrant client connection
+@st.cache_resource # Cache the connection to avoid re-creating it
 def getConnection():
-    username = "Username" # Replace with your MongoDB username
-    password = "password" # Replace with your MongoDB password
+    qdrant_client = QdrantClient(
+    url="https://ed779a30-c6e7-4c82-9aba-d4f31c6b789e.eu-central-1-0.aws.cloud.qdrant.io:6333",
+    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.rfTON-MO3MX_U2hr0Oz0fbUEACEZMB3cLwnKPuiz_dc",
+    )
+    return qdrant_client
 
-    # Replace with your MongoDB connection string
-    uri = "mongodb+srv://Username:password@cluster.b0nw9v5.mongodb.net/?retryWrites=true&w=majority"
+# Function to load models
+@st.cache_resource # Cache the models to avoid re-loading them
+def load_models():
+    model = SentenceTransformer('all-mpnet-base-v2')
+    kw_model = KeyBERT('all-MiniLM-L6-v2')
+    return model, kw_model
 
-    client = MongoClient(uri, server_api=ServerApi('1'))
+# Function to get user query and vector
+def get_user_query(model, kw_model, user_input):
+    keywords = kw_model.extract_keywords(user_input, keyphrase_ngram_range=(1, 2), stop_words='english', top_n=5)
+    keys = [kw[0] for kw in keywords]
+    user_input = " ".join(keys)
+    query_vector = model.encode(user_input).tolist()
+    return user_input, query_vector
 
-    try:
-        client.admin.command('ping')
-        print("Pinged your deployment. You successfully connected to MongoDB!")
-        return client
-    except Exception as e:
-        print(e)
+# Function to create payload index
+def search_courses(qdrant_client, query_vector):
+    search_result = qdrant_client.query_points(
+        collection_name="courses",
+        query=query_vector,
+        limit=10,
+        with_payload=True
+    )
+    return search_result
 
-def get_courses():
-    try:
-        client = getConnection()
-        db = client['course_recommender']
-        collection = db['courses']
-        courses = list(collection.find())
-        return courses
-    except Exception as e:
-        print(e)
-    finally:
-        client.close()
+# As search results, has duplicates, we can use a set to store unique results
+# Return the top 5 results based on score
+def get_top_results(search_result, max_results=5):
+    seen_titles = set()
+    results = []
 
-def get_index():
-    try:
-        client = getConnection()
-        db = client['course_recommender']
-        index_collection = db['index']
-        index_data_from_mongo = index_collection.find_one({"index_type": "Faiss IndexFlatL2"})
-        if index_data_from_mongo and 'index_data' in index_data_from_mongo:
-            index_bytes_from_mongo = index_data_from_mongo['index_data']
-            load_index = faiss.deserialize_index(np.frombuffer(index_bytes_from_mongo, dtype=np.uint8))
-            print("FAISS index loaded successfully from MongoDB!")
-            print(f"Loaded index has {load_index.ntotal} vectors.")
-            return load_index
-        else:
-            print("Could not find or load the FAISS index from MongoDB.")
-    except Exception as e:
-        print(e)
-    finally:
-        client.close()
+    for point in search_result.points:
+        title = point.payload.get('title')
+        if title and title not in seen_titles:
+            seen_titles.add(title)
+            result = {
+                "title": title,
+                "score": f"{float(point.score) * 100:.2f}%",  # Score as percentage string
+                "tags": point.payload.get('tag'),
+                "organization": point.payload.get('organization'),
+                "url": point.payload.get('url'),
+                "description": point.payload.get('description'),
+                "difficulty": point.payload.get('difficulty'),
+                "duration": point.payload.get('duration'),
+                "platform": point.payload.get('platform'),
+                "rating": point.payload.get('rating'),
+                "review_count": point.payload.get('review_count')
+            }
+            results.append(result)
 
-def load_courses_and_index():
-    courses = get_courses()
-    index = get_index()
-    if not courses:
-        print("No courses found in the database.")
-    else:
-        print("Available Courses:")
-        print("Example Courses: ", [course['title'] for course in courses[:5]])
+            if len(results) >= max_results:
+                break
 
-    index = get_index()
-    if index is None:
-        print("Index could not be retrieved.")
-    else:
-        print("Index retrieved successfully.")
-
-    return courses, index
-
-def generate_query_embedding(query: str) -> np.ndarray:
-    """
-    Generate an embedding for the input query using the specified model.
-    """
-    model = SentenceTransformer('all-MiniLM-L6-v2')
-    if not query:
-        raise ValueError("Query cannot be empty.")
-    if not isinstance(query, str):
-        raise TypeError("Query must be a string.")
-    if len(query) > 512:
-        raise ValueError("Query exceeds maximum length of 512 characters.")
-    query_embedding = model.encode(query, convert_to_tensor=True)
-    query_embedding = query_embedding.cpu().numpy()
-    return query_embedding
-
-def generate_courses(query: str, courses: list, index: faiss.IndexFlatL2, top_k: int = 5):
-    query_embedding = generate_query_embedding(query)
-    distances, indices = index.search(np.array([query_embedding]), top_k)
-    similar_courses = [courses[i] for i in indices[0]]
-
-    print(f"Query: {query}")
-    print("Similar Courses:")
-    for course in similar_courses:
-        print(f"- {course['title']} (ID: {course['_id']})")
-        print(f"  Description: {course['description']}"
-              f"\n  URL: {course['url']}\n")
-        print(f"  Organization: {course['organization']}")
-        print(f"  Rating: {course['rating']}")
-    return similar_courses
+    return results
 
 def main():
-    st.title("Course Recommender System")
-    st.write("Enter a query to find similar courses.")
-
-    
-    courses, index = load_courses_and_index()
-
-    if not courses or index is None:
-        st.error("Failed to load courses or index. Please check the database connection.")
+    # Check the connection
+    try:
+        qdrant_client = getConnection()
+    except Exception as e:
+        st.error(f"❌ Failed to connect to Qdrant: {e}")
         return
+    msg_qdrant = st.empty()
+    msg_qdrant.success("✅ Connected to Qdrant successfully!")
 
-    query = st.text_input("Enter your query:")
-    # Textbar to input the query
-    st.sidebar.header("Query Input")
-    if not query:
-        st.warning("Please enter a query to search for courses.")
+    # Load models
+    model, kw_model = load_models()
+    # Temporary model load success
+    msg_model = st.empty()
+    msg_model.success("✅ Models loaded successfully!")
+
+    time.sleep(1)  # Simulate loading time
+    msg_qdrant.empty()
+    msg_model.empty()
+
+    # Streamlit app title
+    st.title("🎓 Course Recommendation System")
+    st.markdown("Enter your query to find relevant courses:")
+
+    user_input = st.text_input("🔎 Query", placeholder="e.g. Python basic course")
+
+    if user_input:
+        # Get user query and vector
+        user_query_text, query_vector = get_user_query(model, kw_model, user_input)
+
+        if not query_vector:
+            st.error("❌ Failed to process the query vector.")
+            return
+
+        st.subheader("📘 Search Results")
+        st.write(f"Search results for query: `{user_input}`")
+
+        with st.spinner("Searching courses..."):
+            search_result = search_courses(qdrant_client, query_vector)
+
+        if not search_result.points:
+            st.warning("⚠️ No courses found for the given query.")
+            return
+
+        top_results = get_top_results(search_result)
+        st.info(f"📌 Found {len(top_results)} courses matching your query.")
+        titles = [result['title'] for result in top_results]
+        print(f"Titles found: {titles}")
+        st.markdown("#### 🏆 Top 5 Results")
+        for result in top_results:
+            st.markdown(f"---\n### 📘 {result['title']} ({result['score']})")
+            st.markdown(f"🔗 [Course Link]({result['url']})")
+            st.markdown(
+                f"🏷 **Tags**: {result['tags']}  \n"
+                f"🏫 **Organization**: {result['organization']}  \n"
+                f"📝 **Description**: {result['description']}  \n"
+                f"📊 **Difficulty**: {result['difficulty']}  \n"
+                f"⏱ **Duration**: {result['duration']}  \n"
+                f"💻 **Platform**: {result['platform']}  \n"
+                f"⭐ **Rating**: {result['rating']} ({result['review_count']} reviews)"
+            )
+
+        st.success("✅ Search completed successfully!")
     else:
-        st.write(f"Searching for courses similar to: **{query}**")
-    if st.button("Search"):
-        if query:
-            print(f"Searching for courses similar to: {query}")
-            similar_courses = generate_courses(query, courses, index)
-            if similar_courses:
-                st.success(f"Found {len(similar_courses)} similar courses.")
-                for course in similar_courses:
-                    st.markdown(f"### {course['title']} (ID: {course['_id']})")
-                    st.markdown(course['description'].encode('latin1').decode('utf-8', errors='ignore'))
-                    st.markdown(f"[View Course]({course['url']})", unsafe_allow_html=False)  
-                    st.markdown(f"<div style='color:#BBBBBB; font-size: 14px'>{course['description']}</div>", unsafe_allow_html=True)
-                    st.write(f"Organization: {course.get('organization', 'N/A')}")
-                    st.write(f"Tags: {', '.join(course.get('tags', [])) if 'tags' in course else 'N/A'}")
-                    col1, col2 = st.columns(2)
-                    col1.markdown(f"**Rating:** {course.get('rating', 'N/A')}")
-                    col2.markdown(f"**Duration:** {course.get('duration', 'N/A')}")
-                    st.write("---")
-            else:
-                st.warning("No similar courses found.")
-        else:
-            st.error("Please enter a valid query.")
-    st.sidebar.header("About")
-    st.sidebar.write("This application uses a pre-trained model to recommend courses based on user queries.")
-    st.sidebar.write("Developed by Gautamw7.")
-    st.sidebar.write("For more information, visit the [GitHub repository](https://github.com/gautamw7/CourseRecSys).")
+        st.info("ℹ️ Please enter a query above to search for courses.")
+
+
 
 if __name__ == "__main__":
     main()

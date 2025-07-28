@@ -1,18 +1,49 @@
-from pymongo import MongoClient
+# Using only the query
+from sentence_transformers import SentenceTransformer
+from keybert import KeyBERT
+from qdrant_client import QdrantClient
+from qdrant_client.models import Filter, FieldCondition, MatchValue
+from qdrant_client.models import PayloadSchemaType
 
-client = MongoClient("mongodb://localhost:27017/")
-db = client["course_recommender"]
-courses_col = db["courses"]
+qdrant_client = QdrantClient(
+    url="https://ed779a30-c6e7-4c82-9aba-d4f31c6b789e.eu-central-1-0.aws.cloud.qdrant.io:6333",
+    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.rfTON-MO3MX_U2hr0Oz0fbUEACEZMB3cLwnKPuiz_dc",
+)
 
-sample_course = {
-    "course_id": "crs001",
-    "title": "Introduction to Python",
-    "platform": "Coursera",
-    "description": "Learn the basics of Python programming.",
-    "tags": ["Python", "Programming"],
-    "difficulty": "Beginner",
-    "vector": [0.12, 0.53, 0.19]  # Example shortened vector
-}
+model = SentenceTransformer('all-mpnet-base-v2')
 
-courses_col.insert_one(sample_course)
-print("Inserted successfully")
+kw_model = KeyBERT('all-MiniLM-L6-v2')
+user_query = ["Python basic course"]
+
+keywords = kw_model.extract_keywords(user_query, keyphrase_ngram_range=(1, 2), stop_words='english', top_n=5)
+keys = [kw[0] for kw in keywords]
+user_query = " ".join(keys)
+
+query_vector = model.encode(user_query).tolist()
+
+
+qdrant_client.create_payload_index(
+    collection_name="courses",
+    field_name="difficulty",
+    field_schema=PayloadSchemaType.KEYWORD
+)
+
+search_result = qdrant_client.query_points(
+    collection_name="courses",
+    query=query_vector,
+    limit=10,
+    with_payload=True,
+    query_filter=Filter(
+        must=[
+            FieldCondition(
+                key="difficulty",
+                match=MatchValue(value="Advanced")
+            )
+        ]
+    )
+)
+
+print(f"Search results for query: {user_query}")
+for point in search_result.points:
+    print(f"Title: {point.payload.get('title')}, Score: {point.score}, Tags: {point.payload.get('tag')}, Organization: {point.payload.get('organization')}")
+    print(f"Score : {point.score}")
