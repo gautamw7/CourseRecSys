@@ -16,8 +16,8 @@ warnings.filterwarnings("ignore")
 @st.cache_resource # Cache the connection to avoid re-creating it
 def getConnection():
     qdrant_client = QdrantClient(
-    url="https://ed779a30-c6e7-4c82-9aba-d4f31c6b789e.eu-central-1-0.aws.cloud.qdrant.io:6333",
-    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.rfTON-MO3MX_U2hr0Oz0fbUEACEZMB3cLwnKPuiz_dc",
+    url="url here",  # Replace with your actual Qdrant URL
+    api_key="api_key_here",  # Replace with your actual API key
     )
     return qdrant_client
 
@@ -146,3 +146,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# git commands
+# git add 
+# git commit -m "Initial commit with course recommendation system"
+# git push origin main
