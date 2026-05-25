@@ -1,0 +1,125 @@
+.course-card {
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease;
+  position: relative;
+}
+
+.course-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.course-rank {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  background: linear-gradient(135deg, #0066cc, #0052a3);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.course-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 12px;
+}
+
+.course-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  flex: 1;
+  padding-right: 12px;
+}
+
+.course-score {
+  background: #d4edda;
+  color: #155724;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.course-meta {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.course-platform,
+.course-provider,
+.course-difficulty {
+  display: inline-block;
+  font-size: 12px;
+  padding: 4px 10px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  color: #666;
+}
+
+.course-platform {
+  font-weight: 600;
+  color: #0066cc;
+  background: #e6f0ff;
+}
+
+.course-description {
+  font-size: 14px;
+  color: #555;
+  margin: 12px 0;
+  line-height: 1.5;
+}
+
+.course-explanation {
+  font-size: 13px;
+  color: #0066cc;
+  margin: 12px 0;
+  padding: 10px 12px;
+  background: #f0f7ff;
+  border-left: 3px solid #0066cc;
+  border-radius: 4px;
+}
+
+.course-skills {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0;
+  flex-wrap: wrap;
+}
+
+.skill-tag {
+  display: inline-block;
+  font-size: 11px;
+  padding: 3px 8px;
+  background: #fff3cd;
+  color: #856404;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.course-link {
+  display: inline-block;
+  margin-top: 12px;
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.course-link:hover {
+  color: #0052a3;
+  text-decoration: underline;
+}

@@ -65,3 +65,6 @@ Thumbs.db
 
 # Claude Code
 .claude/
+
+# Resume uploads (personal data)
+Data/resumes/
