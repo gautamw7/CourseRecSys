@@ -215,9 +215,13 @@ def main():
     # Sort by title for consistent output
     courses.sort(key=lambda x: x['title'])
 
+    # Add course_id to each course
+    for idx, course in enumerate(courses, start=1):
+        course['course_id'] = idx
+
     print("\n3. Writing to CSV...")
     output_file = 'courses_cleaned.csv'
-    fieldnames = ['title', 'platform', 'provider', 'skills', 'rating', 'review_count',
+    fieldnames = ['course_id', 'title', 'platform', 'provider', 'skills', 'rating', 'review_count',
                   'url', 'description', 'difficulty', 'duration', 'language']
 
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
