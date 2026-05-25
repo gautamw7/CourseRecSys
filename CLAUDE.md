@@ -186,16 +186,16 @@ Before pushing, ask yourself:
 
 ---
 
-## LLM Roles
+## LLM Integration
 
-- **Gemini API**: Heavy lifting (resume parsing, JSON extraction) — fast, free tier OK
-- **Claude API**: Reasoning (ranking, explanations) — accurate, worth the cost
+- **Gemini 2.0 Flash**: Handles both extraction (resume → profile JSON) and ranking (top-N courses → explanations)
+- **Why Gemini only**: Free tier sufficient for personal project; no API costs
 - **You**: Decide prompts, handle failures, iterate on quality
 
 When calling LLMs:
-- Always handle rate limits (use retry logic)
-- Log tokens used (track costs)
-- Never hard-code API keys (use env vars)
+- Always handle rate limits (use retry logic with exponential backoff)
+- Log requests/responses for debugging
+- Never hard-code API keys (use env vars, .env file)
 - Test with real data early (not just mock)
 
 ---

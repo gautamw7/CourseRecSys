@@ -36,8 +36,8 @@
 │                  ┌────────────────────┐                        │
 │                  │ LLM Service        │                        │
 │                  │  - Call Gemini API │                        │
-│                  │  - Parse response  │                        │
-│                  │  - Return profile  │                        │
+│                  │  - Extract + rank  │                        │
+│                  │  - Parse responses │                        │
 │                  └────────┬───────────┘                        │
 │                           ↓                                     │
 │                  ┌────────────────────┐                        │
@@ -65,10 +65,10 @@
                              ↓
 ┌─────────────────────────────────────────────────────────────────┐
 │              External Services (Cloud APIs)                      │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐          │
-│  │ Gemini API   │  │ Claude API   │  │ Qdrant Cloud │          │
-│  │ (extraction) │  │ (ranking)    │  │ (vector db)  │          │
-│  └──────────────┘  └──────────────┘  └──────────────┘          │
+│  ┌──────────────────────┐  ┌──────────────┐                    │
+│  │ Gemini 2.0 Flash     │  │ Qdrant Cloud │                    │
+│  │ (extract + ranking)  │  │ (vector db)  │                    │
+│  └──────────────────────┘  └──────────────┘                    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -110,7 +110,7 @@
    ↓
 8. RECOMMENDATION SERVICE
    a. Take top-10 courses + user profile
-   b. Call Claude API: "Rank these courses for this user, explain top-5"
+   b. Call Gemini API: "Rank these courses for this user, explain top-5"
    c. Parse response: [Recommendation1, ..., Recommendation5]
    ↓
 9. RESPONSE MODEL
@@ -381,8 +381,8 @@ LLM APIs: Called from backend (API keys in secrets)
 ### **Q: Why Qdrant over FAISS?**
 **A:** Qdrant is persistent; can add replicas later. FAISS is in-memory, faster locally but doesn't scale.
 
-### **Q: Why two LLMs (Gemini + Claude)?**
-**A:** Gemini free tier handles extraction (fast, cheap). Claude for reasoning (better quality on ranking).
+### **Q: Why Gemini for both extraction and ranking?**
+**A:** Gemini 2.0 Flash free tier is fast and cheap; handles both tasks well. No API costs for personal project.
 
 ### **Q: Why SentenceTransformer (not Claude embeddings)?**
 **A:** Self-hosted; no API calls needed; fast; proven in prototype.

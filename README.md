@@ -21,7 +21,7 @@ Enable individuals of any age to discover and filter courses that match their sk
 | **Frontend** | React 18 + TypeScript | Type-safe, component-based UI; good DX for learning |
 | **Backend** | FastAPI + Python 3.11 | Fast, async, well-documented; familiar to you |
 | **Vector DB** | Qdrant (cloud or local) | Semantic search; proven in your prototypes |
-| **LLM** | Gemini API (resume extraction) + Claude (reasoning) | Free tier + learning goal (Claude) |
+| **LLM** | Gemini 2.0 Flash | Free tier; handles extraction + ranking |
 | **Embedding Model** | SentenceTransformer (all-MiniLM-L6-v2) | Fast, CPU-friendly, good for education domain |
 | **Parsing** | pdfplumber | Reliable PDF text extraction |
 | **Deployment** | Docker + simple cloud host | Reproducible, portable |
@@ -178,7 +178,7 @@ This project teaches:
 - **Frontend**: React hooks, TypeScript, state management
 - **DevOps**: Docker, CI/CD, git workflows
 - **Project Management**: PRDs, issues, documentation, stakeholder communication
-- **LLM Integration**: Working with Claude + Gemini APIs, prompt engineering
+- **LLM Integration**: Working with Gemini API, prompt engineering
 - **ML Ops**: Vector databases, embeddings, retrieval patterns
 
 ## Next Steps (v2+)
